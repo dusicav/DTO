@@ -1,0 +1,1851 @@
+uniprot	sym	idgfam	tdl	name
+A5X5Y0	HTR3E	IC	Tchem	5-hydroxytryptamine receptor 3E
+P34969	HTR7	GPCR	Tclin	5-hydroxytryptamine receptor 7
+P25106	ACKR3	GPCR	Tchem	Atypical chemokine receptor 3
+P30542	ADORA1	GPCR	Tclin	Adenosine receptor A1
+Q07001	CHRND	IC	Tclin	Acetylcholine receptor subunit delta
+P28221	HTR1D	GPCR	Tclin	5-hydroxytryptamine receptor 1D
+P28566	HTR1E	GPCR	Tchem	5-hydroxytryptamine receptor 1E
+P46098	HTR3A	IC	Tclin	5-hydroxytryptamine receptor 3A
+O95264	HTR3B	IC	Tchem	5-hydroxytryptamine receptor 3B
+Q70Z44	HTR3D	IC	Tchem	5-hydroxytryptamine receptor 3D
+P47898	HTR5A	GPCR	Tchem	5-hydroxytryptamine receptor 5A
+P50406	HTR6	GPCR	Tchem	5-hydroxytryptamine receptor 6
+P29274	ADORA2A	GPCR	Tclin	Adenosine receptor A2a
+P54619	PRKAG1	Kinase	Tbio	5'-AMP-activated protein kinase subunit gamma-1
+Q13131	PRKAA1	Kinase	Tchem	5'-AMP-activated protein kinase catalytic subunit alpha-1
+P00519	ABL1	Kinase	Tclin	Tyrosine-protein kinase ABL1
+P30532	CHRNA5	IC	Tbio	Neuronal acetylcholine receptor subunit alpha-5
+Q07912	TNK2	Kinase	Tchem	Activated CDC42 kinase 1
+P54646	PRKAA2	Kinase	Tchem	5'-AMP-activated protein kinase catalytic subunit alpha-2
+P32297	CHRNA3	IC	Tclin	Neuronal acetylcholine receptor subunit alpha-3
+P36544	CHRFAM7A	IC	Tchem	Neuronal acetylcholine receptor subunit alpha-7
+P02708	CHRNA1	IC	Tclin	Acetylcholine receptor subunit alpha
+P17787	CHRNB2	IC	Tclin	Neuronal acetylcholine receptor subunit beta-2
+O00590	ACKR2	GPCR	Tbio	Atypical chemokine receptor 2
+P11229	CHRM1	GPCR	Tclin	Muscarinic acetylcholine receptor M1
+P08173	CHRM4	GPCR	Tclin	Muscarinic acetylcholine receptor M4
+P30926	CHRNB4	IC	Tclin	Neuronal acetylcholine receptor subunit beta-4
+P11230	CHRNB1	IC	Tclin	Acetylcholine receptor subunit beta
+P35348	ADRA1A	GPCR	Tclin	Alpha-1A adrenergic receptor
+Q9GZZ6	CHRNA10	IC	Tbio	Neuronal acetylcholine receptor subunit alpha-10
+P07510	CHRNG	IC	Tclin	Acetylcholine receptor subunit gamma
+Q9NPB9	ACKR4	GPCR	Tbio	Atypical chemokine receptor 4
+Q86TW2	ADCK1	Kinase	Tdark	Uncharacterized aarF domain-containing protein kinase 1
+Q3MIX3	ADCK5	Kinase	Tdark	Uncharacterized aarF domain-containing protein kinase 5
+P28335	HTR2C	GPCR	Tclin	5-hydroxytryptamine receptor 2C
+Q15822	CHRNA2	IC	Tchem	Neuronal acetylcholine receptor subunit alpha-2
+P43681	CHRNA4	IC	Tclin	Neuronal acetylcholine receptor subunit alpha-4
+Q15825	CHRNA6	IC	Tchem	Neuronal acetylcholine receptor subunit alpha-6
+Q9UGM1	CHRNA9	IC	Tbio	Neuronal acetylcholine receptor subunit alpha-9
+Q05901	CHRNB3	IC	Tchem	Neuronal acetylcholine receptor subunit beta-3
+P35368	ADRA1B	GPCR	Tclin	Alpha-1B adrenergic receptor
+P55263	ADK	Kinase	Tchem	Adenosine kinase
+P13945	ADRB3	GPCR	Tclin	Beta-3 adrenergic receptor
+P08908	HTR1A	GPCR	Tclin	5-hydroxytryptamine receptor 1A
+P30939	HTR1F	GPCR	Tchem	5-hydroxytryptamine receptor 1F
+Q8WXA8	HTR3C	IC	Tchem	5-hydroxytryptamine receptor 3C
+Q13639	HTR4	GPCR	Tclin	5-hydroxytryptamine receptor 4
+Q2M2I8	AAK1	Kinase	Tchem	AP2-associated protein kinase 1
+Q9Y478	PRKAB1	Kinase	Tchem	5'-AMP-activated protein kinase subunit beta-1
+P42684	ABL2	Kinase	Tchem	Abelson tyrosine-protein kinase 2
+P28222	HTR1B	GPCR	Tclin	5-hydroxytryptamine receptor 1B
+P28223	HTR2A	GPCR	Tclin	5-hydroxytryptamine receptor 2A
+P41595	HTR2B	GPCR	Tclin	5-hydroxytryptamine receptor 2B
+P0DMS8	ADORA3	GPCR	Tchem	Adenosine receptor A3
+P18089	ADRA2B	GPCR	Tclin	Alpha-2B adrenergic receptor
+P18825	ADRA2C	GPCR	Tclin	Alpha-2C adrenergic receptor
+Q7Z695	ADCK2	Kinase	Tbio	Uncharacterized aarF domain-containing protein kinase 2
+Q9BRR6	ADPGK	Kinase	Tbio	ADP-dependent glucokinase
+O60241	ADGRB2	GPCR	Tbio	Adhesion G protein-coupled receptor B2
+Q86SQ3	ADGRE4P	GPCR	Tdark	Putative adhesion G protein-coupled receptor E4P
+Q5T601	ADGRF1	GPCR	Tdark	Adhesion G-protein coupled receptor F1
+Q9Y653	ADGRG1	GPCR	Tbio	Adhesion G-protein coupled receptor G1
+P50052	AGTR2	GPCR	Tchem	Type-2 angiotensin II receptor
+P20594	NPR2	Kinase	Tbio	Atrial natriuretic peptide receptor 2
+P30556	AGTR1	GPCR	Tclin	Type-1 angiotensin II receptor
+P31751	AKT2	Kinase	Tchem	RAC-beta serine/threonine-protein kinase
+Q96L96	ALPK3	Kinase	Tdark	Alpha-protein kinase 3
+Q16671	AMHR2	Kinase	Tbio	Anti-Muellerian hormone type-2 receptor
+Q16570	ACKR1	GPCR	Tbio	Atypical chemokine receptor 1
+Q8NER5	ACVR1C	Kinase	Tbio	Activin receptor type-1C
+Q04771	ACVR1	Kinase	Tchem	Activin receptor type-1
+Q8IZF6	ADGRG4	GPCR	Tdark	Adhesion G-protein coupled receptor G4
+O94910	ADGRL1	GPCR	Tbio	Adhesion G protein-coupled receptor L1
+Q9HBW9	ADGRL4	GPCR	Tbio	Adhesion G protein-coupled receptor L4
+Q9Y243	AKT3	Kinase	Tchem	RAC-gamma serine/threonine-protein kinase
+P29275	ADORA2B	GPCR	Tclin	Adenosine receptor A2b
+Q04844	CHRNE	IC	Tclin	Acetylcholine receptor subunit epsilon
+P08172	CHRM2	GPCR	Tclin	Muscarinic acetylcholine receptor M2
+P08912	CHRM5	GPCR	Tclin	Muscarinic acetylcholine receptor M5
+Q01718	MC2R	GPCR	Tclin	Adrenocorticotropic hormone receptor
+O60242	ADGRB3	GPCR	Tbio	Adhesion G protein-coupled receptor B3
+P36896	ACVR1B	Kinase	Tchem	Activin receptor type-1B
+P37023	ACVRL1	Kinase	Tchem	Serine/threonine-protein kinase receptor R3
+P25100	ADRA1D	GPCR	Tclin	Alpha-1D adrenergic receptor
+Q8IWK6	ADGRA3	GPCR	Tbio	Adhesion G protein-coupled receptor A3
+Q7Z7M1	ADGRD2	GPCR	Tdark	Adhesion G-protein coupled receptor D2
+Q14246	ADGRE1	GPCR	Tbio	Adhesion G protein-coupled receptor E1
+Q9UHX3	ADGRE2	GPCR	Tbio	Adhesion G protein-coupled receptor E2
+Q8IZF5	ADGRF3	GPCR	Tdark	Adhesion G-protein coupled receptor F3
+Q8IZP9	ADGRG2	GPCR	Tbio	Adhesion G-protein coupled receptor G2
+Q8IZF4	ADGRG5	GPCR	Tdark	Adhesion G-protein coupled receptor G5
+Q8NFD2	ANKK1	Kinase	Tchem	Ankyrin repeat and protein kinase domain-containing protein 1
+P08588	ADRB1	GPCR	Tclin	Beta-1 adrenergic receptor
+Q9BY15	ADGRE3	GPCR	Tbio	Adhesion G protein-coupled receptor E3
+Q8IZF3	ADGRF4	GPCR	Tdark	Adhesion G protein-coupled receptor F4
+Q8IZF2	ADGRF5	GPCR	Tbio	Adhesion G protein-coupled receptor F5
+O95490	ADGRL2	GPCR	Tbio	Adhesion G protein-coupled receptor L2
+Q9HAR2	ADGRL3	GPCR	Tbio	Adhesion G protein-coupled receptor L3
+P20309	CHRM3	GPCR	Tclin	Muscarinic acetylcholine receptor M3
+P07550	ADRB2	GPCR	Tclin	Beta-2 adrenergic receptor
+Q6QNK2	ADGRD1	GPCR	Tbio	Adhesion G-protein coupled receptor D1
+Q8IZF7	ADGRF2	GPCR	Tdark	Adhesion G-protein coupled receptor F2
+Q86Y34	ADGRG3	GPCR	Tchem	Adhesion G protein-coupled receptor G3
+Q96K78	ADGRG7	GPCR	Tdark	Adhesion G-protein coupled receptor G7
+Q86TB3	ALPK2	Kinase	Tdark	Alpha-protein kinase 2
+Q96QP1	ALPK1	Kinase	Tbio	Alpha-protein kinase 1
+P10275	AR	NR	Tclin	Androgen receptor
+Q5XXA6	ANO1	IC	Tclin	Anoctamin-1
+P31749	AKT1	Kinase	Tchem	RAC-alpha serine/threonine-protein kinase
+Q9UM73	ALK	Kinase	Tclin	ALK tyrosine kinase receptor
+Q4KMQ2	ANO6	IC	Tbio	Anoctamin-6
+P08913	ADRA2A	GPCR	Tclin	Alpha-2A adrenergic receptor
+Q86SQ6	ADGRA1	GPCR	Tdark	Adhesion G protein-coupled receptor A1
+Q96PE1	ADGRA2	GPCR	Tbio	Adhesion G protein-coupled receptor A2
+P16066	NPR1	Kinase	Tclin	Atrial natriuretic peptide receptor 1
+Q9NQ90	ANO2	IC	Tbio	Anoctamin-2
+P10398	ARAF	Kinase	Tchem	Serine/threonine-protein kinase A-Raf
+P35414	APLNR	GPCR	Tchem	Apelin receptor
+P25098	GRK2	Kinase	Tchem	Beta-adrenergic receptor kinase 1
+P35626	GRK3	Kinase	Tchem	Beta-adrenergic receptor kinase 2
+Q16515	ASIC2	IC	Tbio	Acid-sensing ion channel 2
+P78348	ASIC1	IC	Tchem	Acid-sensing ion channel 1
+Q9NY37	ASIC5	IC	Tbio	Acid-sensing ion channel 5
+P27037	ACVR2A	Kinase	Tchem	Activin receptor type-2A
+Q13315	ATM	Kinase	Tchem	Serine-protein kinase ATM
+O14965	AURKA	Kinase	Tchem	Aurora kinase A
+Q9UHC3	ASIC3	IC	Tchem	Acid-sensing ion channel 3
+Q96FT7	ASIC4	IC	Tbio	Acid-sensing ion channel 4
+Q9UQB9	AURKC	Kinase	Tchem	Aurora kinase C
+O14514	ADGRB1	GPCR	Tbio	Brain-specific angiogenesis inhibitor 1
+P51451	BLK	Kinase	Tchem	Tyrosine-protein kinase Blk
+Q13535	ATR	Kinase	Tchem	Serine/threonine-protein kinase ATR
+O14874	BCKDK	Kinase	Tbio	[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial
+Q8NFU0	BEST4	IC	Tbio	Bestrophin-4
+Q8N1M1	BEST3	IC	Tbio	Bestrophin-3
+Q8NFU1	BEST2	IC	Tbio	Bestrophin-2
+Q13705	ACVR2B	Kinase	Tchem	Activin receptor type-2B
+P36894	BMPR1A	Kinase	Tchem	Bone morphogenetic protein receptor type-1A
+Q96GD4	AURKB	Kinase	Tchem	Aurora kinase B
+Q9NSY1	BMP2K	Kinase	Tchem	BMP-2-inducible protein kinase
+Q13873	BMPR2	Kinase	Tchem	Bone morphogenetic protein receptor type-2
+O60566	BUB1B	Kinase	Tbio	Mitotic checkpoint serine/threonine-protein kinase BUB1 beta
+O00555	CACNA1A	IC	Tchem	Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+Q13698	CACNA1S	IC	Tchem	Voltage-dependent L-type calcium channel subunit alpha-1S
+Q02641	CACNB1	IC	Tbio	Voltage-dependent L-type calcium channel subunit beta-1
+Q9HA72	CALHM2	IC	Tdark	Calcium homeostasis modulator protein 2
+Q8NCB2	CAMKV	Kinase	Tbio	CaM kinase-like vesicle-associated protein
+Q16581	C3AR1	GPCR	Tchem	C3a anaphylatoxin chemotactic receptor
+P21730	C5AR1	GPCR	Tchem	C5a anaphylatoxin chemotactic receptor 1
+Q9NY47	CACNA2D2	IC	Tclin	Voltage-dependent calcium channel subunit alpha-2/delta-2
+Q7Z3S7	CACNA2D4	IC	Tbio	Voltage-dependent calcium channel subunit alpha-2/delta-4
+Q00975	CACNA1B	IC	Tclin	Voltage-dependent N-type calcium channel subunit alpha-1B
+Q08289	CACNB2	IC	Tbio	Voltage-dependent L-type calcium channel subunit beta-2
+Q8IU99	CALHM1	IC	Tbio	Calcium homeostasis modulator protein 1
+P51813	BMX	Kinase	Tchem	Cytoplasmic tyrosine-protein kinase BMX
+P54289	CACNA2D1	IC	Tclin	Voltage-dependent calcium channel subunit alpha-2/delta-1
+Q8IZS8	CACNA2D3	IC	Tbio	Voltage-dependent calcium channel subunit alpha-2/delta-3
+Q13936	CACNA1C	IC	Tclin	Voltage-dependent L-type calcium channel subunit alpha-1C
+Q15878	CACNA1E	IC	Tbio	Voltage-dependent R-type calcium channel subunit alpha-1E
+O43497	CACNA1G	IC	Tclin	Voltage-dependent T-type calcium channel subunit alpha-1G
+P30411	BDKRB2	GPCR	Tclin	B2 bradykinin receptor
+O00238	BMPR1B	Kinase	Tchem	Bone morphogenetic protein receptor type-1B
+Q9P296	C5AR2	GPCR	Tbio	C5a anaphylatoxin chemotactic receptor 2
+Q01668	CACNA1D	IC	Tclin	Voltage-dependent L-type calcium channel subunit alpha-1D
+O60840	CACNA1F	IC	Tchem	Voltage-dependent L-type calcium channel subunit alpha-1F
+O00305	CACNB4	IC	Tbio	Voltage-dependent L-type calcium channel subunit beta-4
+P46663	BDKRB1	GPCR	Tchem	B1 bradykinin receptor
+Q8IWQ3	BRSK2	Kinase	Tchem	Serine/threonine-protein kinase BRSK2
+P32247	BRS3	GPCR	Tchem	Bombesin receptor subtype-3
+Q86XJ0	CALHM3	IC	Tdark	Calcium homeostasis modulator protein 3
+Q16602	CALCRL	GPCR	Tchem	Calcitonin gene-related peptide type 1 receptor
+P15056	BRAF	Kinase	Tclin	Serine/threonine-protein kinase B-raf
+O43683	BUB1	Kinase	Tchem	Mitotic checkpoint serine/threonine-protein kinase BUB1
+O76090	BEST1	IC	Tbio	Bestrophin-1
+Q8TDC3	BRSK1	Kinase	Tchem	Serine/threonine-protein kinase BRSK1
+O95180	CACNA1H	IC	Tclin	Voltage-dependent T-type calcium channel subunit alpha-1H
+Q9P0X4	CACNA1I	IC	Tclin	Voltage-dependent T-type calcium channel subunit alpha-1I
+P54284	CACNB3	IC	Tbio	Voltage-dependent L-type calcium channel subunit beta-3
+Q9Y698	CACNG2	IC	Tbio	Voltage-dependent calcium channel gamma-2 subunit
+Q9BXT2	CACNG6	IC	Tdark	Voltage-dependent calcium channel gamma-6 subunit
+Q06187	BTK	Kinase	Tclin	Tyrosine-protein kinase BTK
+P30988	CALCR	GPCR	Tclin	Calcitonin receptor
+P41180	CASR	GPCR	Tclin	Extracellular calcium-sensing receptor
+P51684	CCR6	GPCR	Tchem	C-C chemokine receptor type 6
+Q06432	CACNG1	IC	Tbio	Voltage-dependent calcium channel gamma-1 subunit
+Q8WXS5	CACNG8	IC	Tdark	Voltage-dependent calcium channel gamma-8 subunit
+P32246	CCR1	GPCR	Tchem	C-C chemokine receptor type 1
+Q15131	CDK10	Kinase	Tbio	Cyclin-dependent kinase 10
+Q14004	CDK13	Kinase	Tchem	Cyclin-dependent kinase 13
+P32248	CCR7	GPCR	Tbio	C-C chemokine receptor type 7
+P21127	CDK11B	Kinase	Tchem	Cyclin-dependent kinase 11B
+Q96Q40	CDK15	Kinase	Tchem	Cyclin-dependent kinase 15
+Q07002	CDK18	Kinase	Tchem	Cyclin-dependent kinase 18
+P48960	ADGRE5	GPCR	Tbio	CD97 antigen
+O00311	CDC7	Kinase	Tchem	Cell division cycle 7-related protein kinase
+P51679	CCR4	GPCR	Tclin	C-C chemokine receptor type 4
+Q8IZL9	CDK20	Kinase	Tbio	Cyclin-dependent kinase 20
+Q00535	CDK5	Kinase	Tchem	Cyclin-dependent-like kinase 5
+Q92772	CDKL2	Kinase	Tchem	Cyclin-dependent kinase-like 2
+O76039	CDKL5	Kinase	Tchem	Cyclin-dependent kinase-like 5
+Q8TCT0	CERK	Kinase	Tbio	Ceramide kinase
+P41597	CCR2	GPCR	Tchem	C-C chemokine receptor type 2
+Q9BWU1	CDK19	Kinase	Tchem	Cyclin-dependent kinase 19
+P06493	CDK1	Kinase	Tchem	Cyclin-dependent kinase 1
+P24941	CDK2	Kinase	Tchem	Cyclin-dependent kinase 2
+Q00534	CDK6	Kinase	Tclin	Cyclin-dependent kinase 6
+Q00532	CDKL1	Kinase	Tchem	Cyclin-dependent kinase-like 1
+Q9UBN1	CACNG4	IC	Tdark	Voltage-dependent calcium channel gamma-4 subunit
+P62955	CACNG7	IC	Tdark	Voltage-dependent calcium channel gamma-7 subunit
+P32238	CCKAR	GPCR	Tclin	Cholecystokinin receptor type A
+Q9NYV4	CDK12	Kinase	Tbio	Cyclin-dependent kinase 12
+P50613	CDK7	Kinase	Tchem	Cyclin-dependent kinase 7
+Q8WXS4	TMEM37	IC	Tbio	Voltage-dependent calcium channel gamma-like subunit
+P51686	CCR9	GPCR	Tchem	C-C chemokine receptor type 9
+O00421	CCRL2	GPCR	Tchem	C-C chemokine receptor-like 2
+Q9UQ88	CDK11A	Kinase	Tchem	Cyclin-dependent kinase 11A
+O94921	CDK14	Kinase	Tchem	Cyclin-dependent kinase 14
+Q00536	CDK16	Kinase	Tchem	Cyclin-dependent kinase 16
+P49336	CDK8	Kinase	Tchem	Cyclin-dependent kinase 8
+O14757	CHEK1	Kinase	Tchem	Serine/threonine-protein kinase Chk1
+P35790	CHKA	Kinase	Tchem	Choline kinase alpha
+O60359	CACNG3	IC	Tbio	Voltage-dependent calcium channel gamma-3 subunit
+Q9UF02	CACNG5	IC	Tdark	Voltage-dependent calcium channel gamma-5 subunit
+Q00537	CDK17	Kinase	Tchem	Cyclin-dependent kinase 17
+Q00526	CDK3	Kinase	Tchem	Cyclin-dependent kinase 3
+P11802	CDK4	Kinase	Tclin	Cyclin-dependent kinase 4
+Q8IVW4	CDKL3	Kinase	Tchem	Cyclin-dependent kinase-like 3
+Q5MAI5	CDKL4	Kinase	Tdark	Cyclin-dependent kinase-like 4
+Q9NYQ6	CELSR1	GPCR	Tbio	Cadherin EGF LAG seven-pass G-type receptor 1
+P13569	CFTR	IC	Tclin	Cystic fibrosis transmembrane conductance regulator
+P46092	CCR10	GPCR	Tbio	C-C chemokine receptor type 10
+P51677	CCR3	GPCR	Tchem	C-C chemokine receptor type 3
+P51681	CCR5	GPCR	Tclin	C-C chemokine receptor type 5
+P51685	CCR8	GPCR	Tchem	C-C chemokine receptor type 8
+P50750	CDK9	Kinase	Tchem	Cyclin-dependent kinase 9
+Q9HCU4	CELSR2	GPCR	Tbio	Cadherin EGF LAG seven-pass G-type receptor 2
+Q9NYQ7	CELSR3	GPCR	Tbio	Cadherin EGF LAG seven-pass G-type receptor 3
+O00574	CXCR6	GPCR	Tbio	C-X-C chemokine receptor type 6
+Q86XQ3	CATSPER3	IC	Tchem	Cation channel sperm-associated protein 3
+P32302	CXCR5	GPCR	Tbio	C-X-C chemokine receptor type 5
+Q8N568	DCLK2	Kinase	Tchem	Serine/threonine-protein kinase DCLK2
+P25025	CXCR2	GPCR	Tchem	C-X-C chemokine receptor type 2
+P27707	DCK	Kinase	Tchem	Deoxycytidine kinase
+O43293	DAPK3	Kinase	Tchem	Death-associated protein kinase 3
+P20827	EFNA1	Kinase	Tbio	Ephrin-A1
+P21709	EPHA1	Kinase	Tchem	Ephrin type-A receptor 1
+P29317	EPHA2	Kinase	Tclin	Ephrin type-A receptor 2
+P54756	EPHA5	Kinase	Tchem	Ephrin type-A receptor 5
+P29322	EPHA8	Kinase	Tchem	Ephrin type-A receptor 8
+Q5JZY3	EPHA10	Kinase	Tbio	Ephrin type-A receptor 10
+P54762	EPHB1	Kinase	Tchem	Ephrin type-B receptor 1
+P54753	EPHB3	Kinase	Tchem	Ephrin type-B receptor 3
+P29323	EPHB2	Kinase	Tchem	Ephrin type-B receptor 2
+Q92731	ESR2	NR	Tclin	Estrogen receptor beta
+P04626	ERBB2	Kinase	Tclin	Receptor tyrosine-protein kinase erbB-2
+P62508	ESRRG	NR	Tchem	Estrogen-related receptor gamma
+Q13627	DYRK1A	Kinase	Tchem	Dual specificity tyrosine-phosphorylation-regulated kinase 1A
+Q9BQI3	EIF2AK1	Kinase	Tchem	Eukaryotic translation initiation factor 2-alpha kinase 1
+Q9HBU6	ETNK1	Kinase	Tbio	Ethanolamine kinase 1
+O43781	DYRK3	Kinase	Tchem	Dual specificity tyrosine-phosphorylation-regulated kinase 3
+O00418	EEF2K	Kinase	Tchem	Eukaryotic elongation factor 2 kinase
+Q9NVF9	ETNK2	Kinase	Tdark	Ethanolamine kinase 2
+P21462	FPR1	GPCR	Tchem	fMet-Leu-Phe receptor
+P25090	FPR2	GPCR	Tchem	N-formyl peptide receptor 2
+P25089	FPR3	GPCR	Tbio	N-formyl peptide receptor 3
+P42685	FRK	Kinase	Tchem	Tyrosine-protein kinase FRK
+Q9ULW2	FZD10	GPCR	Tbio	Frizzled-10
+Q14332	FZD2	GPCR	Tbio	Frizzled-2
+O75084	FZD7	GPCR	Tbio	Frizzled-7
+Q96N19	GPR137	GPCR	Tbio	Integral membrane protein GPR137
+Q9UP38	FZD1	GPCR	Tbio	Frizzled-1
+Q9NPG1	FZD3	GPCR	Tbio	Frizzled-3
+Q9ULV1	FZD4	GPCR	Tbio	Frizzled-4
+Q13467	FZD5	GPCR	Tbio	Frizzled-5
+O60353	FZD6	GPCR	Tbio	Frizzled-6
+Q01415	GALK2	Kinase	Tbio	N-acetylgalactosamine kinase
+O60755	GALR3	GPCR	Tchem	Galanin receptor type 3
+P47870	GABRB2	IC	Tclin	Gamma-aminobutyric acid receptor subunit beta-2
+O14764	GABRD	IC	Tclin	Gamma-aminobutyric acid receptor subunit delta
+Q02643	GHRHR	GPCR	Tclin	Growth hormone-releasing hormone receptor
+Q8NGA4	GPR32P1	GPCR	Tdark	Putative G-protein coupled receptor GPR32P1
+P51570	GALK1	Kinase	Tchem	Galactokinase
+Q9Y2I7	PIKFYVE	Kinase	Tbio	1-phosphatidylinositol 3-phosphate 5-kinase
+O43603	GALR2	GPCR	Tchem	Galanin receptor type 2
+P04150	NR3C1	NR	Tclin	Glucocorticoid receptor
+Q14802	FXYD3	IC	Tbio	FXYD domain-containing ion transport regulator 3
+P47211	GALR1	GPCR	Tchem	Galanin receptor type 1
+P32239	CCKBR	GPCR	Tclin	Gastrin/cholecystokinin type B receptor
+Q99928	GABRG3	IC	Tclin	Gamma-aminobutyric acid receptor subunit gamma-3
+P34903	GABRA3	IC	Tclin	Gamma-aminobutyric acid receptor subunit alpha-3
+Q8N1C3	GABRG1	IC	Tclin	Gamma-aminobutyric acid receptor subunit gamma-1
+Q8N0W3	FUK	Kinase	Tbio	L-fucose kinase
+O75899	GABBR2	GPCR	Tclin	Gamma-aminobutyric acid type B receptor subunit 2
+P31644	GABRA5	IC	Tclin	Gamma-aminobutyric acid receptor subunit alpha-5
+P28472	GABRB3	IC	Tclin	Gamma-aminobutyric acid receptor subunit beta-3
+P48546	GIPR	GPCR	Tchem	Gastric inhibitory polypeptide receptor
+P58549	FXYD7	IC	Tbio	FXYD domain-containing ion transport regulator 7
+Q9UBS5	GABBR1	GPCR	Tclin	Gamma-aminobutyric acid type B receptor subunit 1
+O14976	GAK	Kinase	Tchem	Cyclin-G-associated kinase
+O75311	GLRA3	IC	Tchem	Glycine receptor subunit alpha-3
+Q8TDU6	GPBAR1	GPCR	Tchem	G-protein coupled bile acid receptor 1
+O95838	GLP2R	GPCR	Tclin	Glucagon-like peptide 2 receptor
+Q8TDV5	GPR119	GPCR	Tchem	Glucose-dependent insulinotropic receptor
+Q5T6X5	GPRC6A	GPCR	Tbio	G-protein coupled receptor family C group 6 member A
+Q96P88	GNRHR2	GPCR	Tbio	Putative gonadotropin-releasing hormone II receptor
+Q8NDV2	GPR26	GPCR	Tbio	G-protein coupled receptor 26
+O15529	GPR42	GPCR	Tdark	G-protein coupled receptor 42
+Q9Y2T5	GPR52	GPCR	Tchem	Probable G-protein coupled receptor 52
+Q9BZJ8	GPR61	GPCR	Tbio	Probable G-protein coupled receptor 61
+Q96P67	GPR82	GPCR	Tdark	Probable G-protein coupled receptor 82
+Q9GZN0	GPR88	GPCR	Tchem	Probable G-protein coupled receptor 88
+P42261	GRIA1	IC	Tclin	Glutamate receptor 1
+Q7Z602	GPR141	GPCR	Tdark	Probable G-protein coupled receptor 141
+Q8TDV2	GPR148	GPCR	Tdark	Probable G-protein coupled receptor 148
+Q8TDT2	GPR152	GPCR	Tbio	Probable G-protein coupled receptor 152
+Q5UAW9	GPR157	GPCR	Tdark	Probable G-protein coupled receptor 157
+Q9UJ42	GPR160	GPCR	Tbio	Probable G-protein coupled receptor 160
+Q8N6U8	GPR161	GPCR	Tbio	G-protein coupled receptor 161
+Q9BXC1	GPR174	GPCR	Tchem	Probable G-protein coupled receptor 174
+O15218	GPR182	GPCR	Tbio	G-protein coupled receptor 182
+P32249	GPR183	GPCR	Tchem	G-protein coupled receptor 183
+P42263	GRIA3	IC	Tclin	Glutamate receptor 3
+P48058	GRIA4	IC	Tclin	Glutamate receptor 4
+P39086	GRIK1	IC	Tclin	Glutamate receptor ionotropic, kainate 1
+Q13003	GRIK3	IC	Tclin	Glutamate receptor ionotropic, kainate 3
+P32298	GRK4	Kinase	Tchem	G protein-coupled receptor kinase 4
+P43250	GRK6	Kinase	Tchem	G protein-coupled receptor kinase 6
+Q8WTQ7	GRK7	Kinase	Tchem	Rhodopsin kinase
+Q13255	GRM1	GPCR	Tchem	Metabotropic glutamate receptor 1
+Q14832	GRM3	GPCR	Tchem	Metabotropic glutamate receptor 3
+Q9NS67	GPR27	GPCR	Tdark	Probable G-protein coupled receptor 27
+Q9UPC5	GPR34	GPCR	Tchem	Probable G-protein coupled receptor 34
+P46089	GPR3	GPCR	Tbio	G-protein coupled receptor 3
+P46093	GPR4	GPCR	Tchem	G-protein coupled receptor 4
+Q9BZJ6	GPR63	GPCR	Tdark	Probable G-protein coupled receptor 63
+Q9NQS5	GPR84	GPCR	Tbio	G-protein coupled receptor 84
+P42262	GRIA2	IC	Tclin	Glutamate receptor 2
+Q9ULK0	GRID1	IC	Tbio	Glutamate receptor ionotropic, delta-1
+Q13002	GRIK2	IC	Tclin	Glutamate receptor ionotropic, kainate 2
+Q9NQ84	GPRC5C	GPCR	Tdark	G-protein coupled receptor family C group 5 member C
+Q02846	GUCY2D	Kinase	Tbio	Retinal guanylyl cyclase 1
+Q96P66	GPR101	GPCR	Tbio	Probable G-protein coupled receptor 101
+Q8IZ08	GPR135	GPCR	Tbio	Probable G-protein coupled receptor 135
+Q96CH1	GPR146	GPCR	Tdark	Probable G-protein coupled receptor 146
+Q8NGU9	GPR150	GPCR	Tdark	Probable G-protein coupled receptor 150
+Q6NV75	GPR153	GPCR	Tdark	Probable G-protein coupled receptor 153
+P30550	GRPR	GPCR	Tchem	Gastrin-releasing peptide receptor
+P30968	GNRHR	GPCR	Tclin	Gonadotropin-releasing hormone receptor
+Q5T6J7	IDNK	Kinase	Tbio	Probable gluconokinase
+Q86SQ4	ADGRG6	GPCR	Tbio	G-protein coupled receptor 126
+Q86SP6	GPR149	GPCR	Tdark	Probable G-protein coupled receptor 149
+P0CG08	GPR89B	IC	Tdark	Golgi pH regulator B
+P49685	GPR15	GPCR	Tbio	G-protein coupled receptor 15
+Q13304	GPR17	GPCR	Tchem	Uracil nucleotide/cysteinyl leukotriene receptor
+Q15760	GPR19	GPCR	Tbio	Probable G-protein coupled receptor 19
+Q99679	GPR21	GPCR	Tdark	Probable G-protein coupled receptor 21
+Q49SQ1	GPR33	GPCR	Tdark	Probable G-protein coupled receptor 33
+O95800	GPR75	GPCR	Tdark	Probable G-protein coupled receptor 75
+P60893	GPR85	GPCR	Tbio	Probable G-protein coupled receptor 85
+Q9BY21	GPR87	GPCR	Tbio	G-protein coupled receptor 87
+Q8WXG9	ADGRV1	GPCR	Tbio	G-protein coupled receptor 98
+P47775	GPR12	GPCR	Tbio	G-protein coupled receptor 12
+O00155	GPR25	GPCR	Tdark	Probable G-protein coupled receptor 25
+O00270	GPR31	GPCR	Tbio	12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor
+O75388	GPR32	GPCR	Tbio	Probable G-protein coupled receptor 32
+Q9Y5Y3	GPR45	GPCR	Tbio	Probable G-protein coupled receptor 45
+Q9Y2T6	GPR55	GPCR	Tchem	G-protein coupled receptor 55
+Q9BZJ7	GPR62	GPCR	Tdark	Probable G-protein coupled receptor 62
+P46095	GPR6	GPCR	Tbio	G-protein coupled receptor 6
+Q96P69	GPR78	GPCR	Tbio	G-protein coupled receptor 78
+Q16099	GRIK4	IC	Tclin	Glutamate receptor ionotropic, kainate 4
+Q14831	GRM7	GPCR	Tbio	Metabotropic glutamate receptor 7
+P49840	GSK3A	Kinase	Tclin	Glycogen synthase kinase-3 alpha
+Q14416	GRM2	GPCR	Tchem	Metabotropic glutamate receptor 2
+O15303	GRM6	GPCR	Tchem	Metabotropic glutamate receptor 6
+O00222	GRM8	GPCR	Tchem	Metabotropic glutamate receptor 8
+P49841	GSK3B	Kinase	Tclin	Glycogen synthase kinase-3 beta
+Q9UL51	HCN2	IC	Tclin	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+Q9P1Z3	HCN3	IC	Tclin	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3
+Q99678	GPR20	GPCR	Tdark	G-protein coupled receptor 20
+O43424	GRID2	IC	Tbio	Glutamate receptor ionotropic, delta-2
+Q16478	GRIK5	IC	Tclin	Glutamate receptor ionotropic, kainate 5
+P34947	GRK5	Kinase	Tchem	G protein-coupled receptor kinase 5
+P08631	HCK	Kinase	Tclin	Tyrosine-protein kinase HCK
+Q14330	GPR18	GPCR	Tchem	N-arachidonyl glycine receptor
+P46091	GPR1	GPCR	Tbio	G-protein coupled receptor 1
+Q99680	GPR22	GPCR	Tdark	Probable G-protein coupled receptor 22
+Q9HC97	GPR35	GPCR	Tchem	G-protein coupled receptor 35
+O15354	GPR37	GPCR	Tbio	Prosaposin receptor GPR37
+O43194	GPR39	GPCR	Tchem	G-protein coupled receptor 39
+Q9NYM4	GPR83	GPCR	Tbio	Probable G-protein coupled receptor 83
+Q14833	GRM4	GPCR	Tchem	Metabotropic glutamate receptor 4
+P41594	GRM5	GPCR	Tchem	Metabotropic glutamate receptor 5
+Q5T848	GPR158	GPCR	Tbio	Probable G-protein coupled receptor 158
+Q16538	GPR162	GPCR	Tbio	Probable G-protein coupled receptor 162
+Q9NZH0	GPRC5B	GPCR	Tbio	G-protein coupled receptor family C group 5 member B
+P25092	GUCY2C	Kinase	Tclin	Heat-stable enterotoxin receptor
+Q8TF76	GSG2	Kinase	Tchem	Serine/threonine-protein kinase haspin
+Q6PRD1	GPR179	GPCR	Tdark	Probable G-protein coupled receptor 179
+Q96S66	CLCC1	IC	Tbio	Chloride channel CLIC-like protein 1
+P51793	CLCN4	IC	Tbio	H(+)/Cl(-) exchange transporter 4
+Q9NZA1	CLIC5	IC	Tbio	Chloride intracellular channel protein 5
+Q9Y271	CYSLTR1	GPCR	Tclin	Cysteinyl leukotriene receptor 1
+Q9NQW8	CNGB3	IC	Tbio	Cyclic nucleotide-gated cation channel beta-3
+P35523	CLCN1	IC	Tbio	Chloride channel protein 1
+Q5EBM0	CMPK2	Kinase	Tbio	UMP-CMP kinase 2, mitochondrial
+A8K7I4	CLCA1	IC	Tbio	Calcium-activated chloride channel regulator 1
+Q14028	CNGB1	IC	Tbio	Cyclic nucleotide-gated cation channel beta-1
+O96017	CHEK2	Kinase	Tchem	Serine/threonine-protein kinase Chk2
+Q9Y6N3	CLCA3P	IC	Tdark	Calcium-activated chloride channel regulator family member 3
+Q14CN2	CLCA4	IC	Tbio	Calcium-activated chloride channel regulator 4
+O00299	CLIC1	IC	Tbio	Chloride intracellular channel protein 1
+Q99788	CMKLR1	GPCR	Tbio	Chemokine-like receptor 1
+P49759	CLK1	Kinase	Tchem	Dual specificity protein kinase CLK1
+Q9HAZ1	CLK4	Kinase	Tchem	Dual specificity protein kinase CLK4
+P29973	CNGA1	IC	Tbio	cGMP-gated cation channel alpha-1
+Q8IV77	CNGA4	IC	Tdark	Cyclic nucleotide-gated cation channel alpha-4
+P51800	CLCNKA	IC	Tbio	Chloride channel protein ClC-Ka
+P51801	CLCNKB	IC	Tbio	Chloride channel protein ClC-Kb
+P51797	CLCN6	IC	Tbio	Chloride transport protein 6
+P51798	CLCN7	IC	Tbio	H(+)/Cl(-) exchange transporter 7
+O95833	CLIC3	IC	Tbio	Chloride intracellular channel protein 3
+Q9Y696	CLIC4	IC	Tbio	Chloride intracellular channel protein 4
+Q96NY7	CLIC6	IC	Tbio	Chloride intracellular channel protein 6
+P49760	CLK2	Kinase	Tchem	Dual specificity protein kinase CLK2
+P51788	CLCN2	IC	Tclin	Chloride channel protein 2
+P51790	CLCN3	IC	Tbio	H(+)/Cl(-) exchange transporter 3
+P51795	CLCN5	IC	Tbio	H(+)/Cl(-) exchange transporter 5
+P49761	CLK3	Kinase	Tchem	Dual specificity protein kinase CLK3
+Q8NI60	COQ8A	Kinase	Tchem	Atypical kinase COQ8A, mitochondrial
+Q9NS75	CYSLTR2	GPCR	Tchem	Cysteinyl leukotriene receptor 2
+Q9Y259	CHKB	Kinase	Tbio	Choline/ethanolamine kinase
+Q9UQC9	CLCA2	IC	Tbio	Calcium-activated chloride channel regulator 2
+O15247	CLIC2	IC	Tbio	Chloride intracellular channel protein 2
+Q16280	CNGA2	IC	Tbio	Cyclic nucleotide-gated olfactory channel
+P34972	CNR2	GPCR	Tchem	Cannabinoid receptor 2
+Q16281	CNGA3	IC	Tbio	Cyclic nucleotide-gated cation channel alpha-3
+P21554	CNR1	GPCR	Tclin	Cannabinoid receptor 1
+P24468	NR2F2	NR	Tbio	COUP transcription factor 2
+Q96D53	COQ8B	Kinase	Tchem	Atypical kinase COQ8B, mitochondrial
+Q96D31	ORAI1	IC	Tchem	Calcium release-activated calcium channel protein 1
+O14936	CASK	Kinase	Tchem	Peripheral plasma membrane protein CASK
+P41240	CSK	Kinase	Tchem	Tyrosine-protein kinase CSK
+P19784	CSNK2A2	Kinase	Tchem	Casein kinase II subunit alpha'
+P67870	CSNK2B	Kinase	Tbio	Casein kinase II subunit beta
+P10589	NR2F1	NR	Tbio	COUP transcription factor 1
+Q96P56	CATSPER2	IC	Tchem	Cation channel sperm-associated protein 2
+P34998	CRHR1	GPCR	Tclin	Corticotropin-releasing factor receptor 1
+Q7RTX7	CATSPER4	IC	Tchem	Cation channel sperm-associated protein 4
+Q8NEC5	CATSPER1	IC	Tchem	Cation channel sperm-associated protein 1
+P49238	CX3CR1	GPCR	Tchem	CX3C chemokine receptor 1
+P04839	CYBB	IC	Tchem	Cytochrome b-245 heavy chain
+Q9Y2W7	KCNIP3	IC	Tbio	Calsenilin
+P07333	CSF1R	Kinase	Tclin	Macrophage colony-stimulating factor 1 receptor
+P68400	CSNK2A1	Kinase	Tchem	Casein kinase II subunit alpha
+O14578	CIT	Kinase	Tchem	Citron Rho-interacting kinase
+Q13324	CRHR2	GPCR	Tchem	Corticotropin-releasing factor receptor 2
+Q8NEV1	CSNK2A3	Kinase	Tdark	Casein kinase II subunit alpha 3
+P25024	CXCR1	GPCR	Tchem	C-X-C chemokine receptor type 1
+P49682	CXCR3	GPCR	Tchem	C-X-C chemokine receptor type 3
+P61073	CXCR4	GPCR	Tclin	C-X-C chemokine receptor type 4
+Q08345	DDR1	Kinase	Tchem	Epithelial discoidin domain-containing receptor 1
+Q09013	DMPK	Kinase	Tchem	Myotonin-protein kinase
+Q9C098	DCLK3	Kinase	Tchem	Serine/threonine-protein kinase DCLK3
+Q16832	DDR2	Kinase	Tchem	Discoidin domain-containing receptor 2
+P52824	DGKQ	Kinase	Tbio	Diacylglycerol kinase theta
+Q86XP1	DGKH	Kinase	Tbio	Diacylglycerol kinase eta
+P53355	DAPK1	Kinase	Tchem	Death-associated protein kinase 1
+O15075	DCLK1	Kinase	Tchem	Serine/threonine-protein kinase DCLK1
+Q9UIK4	DAPK2	Kinase	Tchem	Death-associated protein kinase 2
+P23743	DGKA	Kinase	Tbio	Diacylglycerol kinase alpha
+P35462	DRD3	GPCR	Tclin	D(3) dopamine receptor
+P21728	DRD1	GPCR	Tclin	D(1A) dopamine receptor
+Q6XUX3	DSTYK	Kinase	Tchem	Dual serine/threonine and tyrosine protein kinase
+P21917	DRD4	GPCR	Tchem	D(4) dopamine receptor
+Q92630	DYRK2	Kinase	Tchem	Dual specificity tyrosine-phosphorylation-regulated kinase 2
+P19525	EIF2AK2	Kinase	Tchem	Interferon-induced, double-stranded RNA-activated protein kinase
+P24530	EDNRB	GPCR	Tclin	Endothelin B receptor
+P00533	EGFR	Kinase	Tclin	Epidermal growth factor receptor
+P21918	DRD5	GPCR	Tchem	D(1B) dopamine receptor
+P25101	EDNRA	GPCR	Tclin	Endothelin-1 receptor
+Q9Y463	DYRK1B	Kinase	Tchem	Dual specificity tyrosine-phosphorylation-regulated kinase 1B
+Q9NR20	DYRK4	Kinase	Tchem	Dual specificity tyrosine-phosphorylation-regulated kinase 4
+Q9NZJ5	EIF2AK3	Kinase	Tchem	Eukaryotic translation initiation factor 2-alpha kinase 3
+Q9P2K8	EIF2AK4	Kinase	Tchem	eIF-2-alpha kinase GCN2
+P14416	DRD2	GPCR	Tclin	D(2) dopamine receptor
+P54760	EPHB4	Kinase	Tchem	Ephrin type-B receptor 4
+O95718	ESRRB	NR	Tchem	Steroid hormone receptor ERR2
+P29320	EPHA3	Kinase	Tchem	Ephrin type-A receptor 3
+Q9UF33	EPHA6	Kinase	Tchem	Ephrin type-A receptor 6
+Q15375	EPHA7	Kinase	Tchem	Ephrin type-A receptor 7
+O15197	EPHB6	Kinase	Tchem	Ephrin type-B receptor 6
+Q76MJ5	ERN2	Kinase	Tbio	Serine/threonine-protein kinase/endoribonuclease IRE2
+P21860	ERBB3	Kinase	Tchem	Receptor tyrosine-protein kinase erbB-3
+Q15303	ERBB4	Kinase	Tclin	Receptor tyrosine-protein kinase erbB-4
+P54764	EPHA4	Kinase	Tchem	Ephrin type-A receptor 4
+O60883	GPR37L1	GPCR	Tbio	Prosaposin receptor GPR37L1
+Q5R3K3	FAM26F	IC	Tdark	Protein FAM26F
+Q14289	PTK2B	Kinase	Tchem	Protein-tyrosine kinase 2-beta
+Q16875	PFKFB3	Kinase	Tchem	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3
+Q5JW98	FAM26D	IC	Tdark	Protein FAM26D
+O75460	ERN1	Kinase	Tchem	Serine/threonine-protein kinase/endoribonuclease IRE1
+P16118	PFKFB1	Kinase	Tchem	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1
+O60825	PFKFB2	Kinase	Tchem	6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 2
+P16591	FER	Kinase	Tchem	Tyrosine-protein kinase Fer
+P21802	FGFR2	Kinase	Tclin	Fibroblast growth factor receptor 2
+P07332	FES	Kinase	Tchem	Tyrosine-protein kinase Fes/Fps
+P03372	ESR1	NR	Tclin	Estrogen receptor
+P11362	FGFR1	Kinase	Tclin	Fibroblast growth factor receptor 1
+Q96C11	FGGY	Kinase	Tbio	FGGY carbohydrate kinase domain-containing protein
+P11474	ESRRA	NR	Tchem	Steroid hormone receptor ERR1
+Q8N5C1	FAM26E	IC	Tdark	Protein FAM26E
+Q14296	FASTK	Kinase	Tbio	Fas-activated serine/threonine kinase
+O14843	FFAR3	GPCR	Tbio	Free fatty acid receptor 3
+Q05397	PTK2	Kinase	Tchem	Focal adhesion kinase 1
+P22607	FGFR3	Kinase	Tclin	Fibroblast growth factor receptor 3
+P36888	FLT3	Kinase	Tclin	Receptor-type tyrosine-protein kinase FLT3
+Q9H479	FN3K	Kinase	Tbio	Fructosamine-3-kinase
+P22455	FGFR4	Kinase	Tclin	Fibroblast growth factor receptor 4
+P09769	FGR	Kinase	Tchem	Tyrosine-protein kinase Fgr
+P23945	FSHR	GPCR	Tclin	Follicle-stimulating hormone receptor
+O00144	FZD9	GPCR	Tbio	Frizzled-9
+P59646	FXYD4	IC	Tdark	FXYD domain-containing ion transport regulator 4
+Q96DB9	FXYD5	IC	Tbio	FXYD domain-containing ion transport regulator 5
+P58550	FXYD6P3	IC	Tdark	Putative FXYD domain-containing ion transport regulator 8
+P06241	FYN	Kinase	Tclin	Tyrosine-protein kinase Fyn
+Q9H0Q3	FXYD6	IC	Tbio	FXYD domain-containing ion transport regulator 6
+Q9H461	FZD8	GPCR	Tbio	Frizzled-8
+O14842	FFAR1	GPCR	Tchem	Free fatty acid receptor 1
+O15552	FFAR2	GPCR	Tchem	Free fatty acid receptor 2
+Q5NUL3	FFAR4	GPCR	Tchem	Free fatty acid receptor 4
+Q14409	GK3P	Kinase	Tdark	Glycerol kinase 3
+P14867	GABRA1	IC	Tclin	Gamma-aminobutyric acid receptor subunit alpha-1
+P47869	GABRA2	IC	Tclin	Gamma-aminobutyric acid receptor subunit alpha-2
+Q16445	GABRA6	IC	Tclin	Gamma-aminobutyric acid receptor subunit alpha-6
+P78334	GABRE	IC	Tclin	Gamma-aminobutyric acid receptor subunit epsilon
+P18507	GABRG2	IC	Tclin	Gamma-aminobutyric acid receptor subunit gamma-2
+O00591	GABRP	IC	Tclin	Gamma-aminobutyric acid receptor subunit pi
+P28476	GABRR2	IC	Tbio	Gamma-aminobutyric acid receptor subunit rho-2
+Q9UN88	GABRQ	IC	Tclin	Gamma-aminobutyric acid receptor subunit theta
+P23415	GLRA1	IC	Tclin	Glycine receptor subunit alpha-1
+Q14410	GK2	Kinase	Tdark	Glycerol kinase 2
+P23416	GLRA2	IC	Tchem	Glycine receptor subunit alpha-2
+P48167	GLRB	IC	Tclin	Glycine receptor subunit beta
+P48169	GABRA4	IC	Tclin	Gamma-aminobutyric acid receptor subunit alpha-4
+P18505	GABRB1	IC	Tclin	Gamma-aminobutyric acid receptor subunit beta-1
+P24046	GABRR1	IC	Tchem	Gamma-aminobutyric acid receptor subunit rho-1
+A8MPY1	GABRR3	IC	Tdark	Gamma-aminobutyric acid receptor subunit rho-3
+Q8IVS8	GLYCTK	Kinase	Tbio	Glycerate kinase
+Q92847	GHSR	GPCR	Tclin	Growth hormone secretagogue receptor type 1
+Q9NS66	GPR173	GPCR	Tdark	Probable G-protein coupled receptor 173
+Q14439	GPR176	GPCR	Tbio	Probable G-protein coupled receptor 176
+P47871	GCGR	GPCR	Tclin	Glucagon receptor
+Q5VW38	GPR107	GPCR	Tdark	Protein GPR107
+Q9UNW8	GPR132	GPCR	Tbio	Probable G-protein coupled receptor 132
+Q7Z601	GPR142	GPCR	Tchem	Probable G-protein coupled receptor 142
+P51810	GPR143	GPCR	Tbio	G-protein coupled receptor 143
+Q8TDV0	GPR151	GPCR	Tdark	Probable G-protein coupled receptor 151
+Q8NFN8	GPR156	GPCR	Tbio	Probable G-protein coupled receptor 156
+O14626	GPR171	GPCR	Tdark	Probable G-protein coupled receptor 171
+Q9NZD1	GPRC5D	GPCR	Tdark	G-protein coupled receptor family C group 5 member D
+Q99527	GPER1	GPCR	Tchem	G-protein coupled estrogen receptor 1
+B7ZAQ6	GPR89A	IC	Tbio	Golgi pH regulator A
+P43220	GLP1R	GPCR	Tclin	Glucagon-like peptide 1 receptor
+Q6ZS86	GK5	Kinase	Tbio	Putative glycerol kinase 5
+P32189	GK	Kinase	Tbio	Glycerol kinase
+Q5JXX5	GLRA4	IC	Tdark	Glycine receptor subunit alpha-4
+Q6DWJ6	GPR139	GPCR	Tchem	Probable G-protein coupled receptor 139
+P51841	GUCY2F	Kinase	Tbio	Retinal guanylyl cyclase 2
+Q96GX5	MASTL	Kinase	Tbio	Serine/threonine-protein kinase greatwall
+Q9Y3Q4	HCN4	IC	Tclin	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+Q8NE63	HIPK4	Kinase	Tchem	Homeodomain-interacting protein kinase 4
+Q9BXC0	HCAR1	GPCR	Tbio	Hydroxycarboxylic acid receptor 1
+P49019	HCAR3	GPCR	Tchem	Hydroxycarboxylic acid receptor 3
+P41235	HNF4A	NR	Tbio	Hepatocyte nuclear factor 4-alpha
+P35367	HRH1	GPCR	Tclin	Histamine H1 receptor
+Q8TDS4	HCAR2	GPCR	Tclin	Hydroxycarboxylic acid receptor 2
+Q86Z02	HIPK1	Kinase	Tchem	Homeodomain-interacting protein kinase 1
+Q9H2X6	HIPK2	Kinase	Tchem	Homeodomain-interacting protein kinase 2
+Q2TB90	HKDC1	Kinase	Tbio	Putative hexokinase HKDC1
+O60741	HCN1	IC	Tclin	Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1
+Q9H422	HIPK3	Kinase	Tchem	Homeodomain-interacting protein kinase 3
+Q9H3N8	HRH4	GPCR	Tchem	Histamine H4 receptor
+Q14541	HNF4G	NR	Tbio	Hepatocyte nuclear factor 4-gamma
+P57058	HUNK	Kinase	Tchem	Hormonally up-regulated neu tumor-associated kinase
+Q96D96	HVCN1	IC	Tbio	Voltage-gated hydrogen channel 1
+P52790	HK3	Kinase	Tbio	Hexokinase-3
+P35557	GCK	Kinase	Tchem	Glucokinase
+Q9UPZ9	ICK	Kinase	Tchem	Serine/threonine-protein kinase ICK
+P19367	HK1	Kinase	Tbio	Hexokinase-1
+P52789	HK2	Kinase	Tbio	Hexokinase-2
+P25021	HRH2	GPCR	Tclin	Histamine H2 receptor
+Q9Y5N1	HRH3	GPCR	Tclin	Histamine H3 receptor
+O15111	CHUK	Kinase	Tchem	Inhibitor of nuclear factor kappa-B kinase subunit alpha
+O14920	IKBKB	Kinase	Tchem	Inhibitor of nuclear factor kappa-B kinase subunit beta
+P08069	IGF1R	Kinase	Tclin	Insulin-like growth factor 1 receptor
+Q13418	ILK	Kinase	Tchem	Integrin-linked protein kinase
+P06213	INSR	Kinase	Tclin	Insulin receptor
+P23677	ITPKA	Kinase	Tbio	Inositol-trisphosphate 3-kinase A
+Q8NFU5	IPMK	Kinase	Tbio	Inositol polyphosphate multikinase
+Q9Y616	IRAK3	Kinase	Tchem	Interleukin-1 receptor-associated kinase 3
+Q96DU7	ITPKC	Kinase	Tbio	Inositol-trisphosphate 3-kinase C
+Q9UHH9	IP6K2	Kinase	Tbio	Inositol hexakisphosphate kinase 2
+Q14643	ITPR1	IC	Tchem	Inositol 1,4,5-trisphosphate receptor type 1
+Q96MA6	AK8	Kinase	Tbio	Adenylate kinase 8
+P27987	ITPKB	Kinase	Tbio	Inositol-trisphosphate 3-kinase B
+P17612	PRKACA	Kinase	Tchem	cAMP-dependent protein kinase catalytic subunit alpha
+Q92551	IP6K1	Kinase	Tbio	Inositol hexakisphosphate kinase 1
+P51617	IRAK1	Kinase	Tchem	Interleukin-1 receptor-associated kinase 1
+Q08881	ITK	Kinase	Tclin	Tyrosine-protein kinase ITK/TSK
+Q14164	IKBKE	Kinase	Tchem	Inhibitor of nuclear factor kappa-B kinase subunit epsilon
+Q14571	ITPR2	IC	Tbio	Inositol 1,4,5-trisphosphate receptor type 2
+P14616	INSRR	Kinase	Tchem	Insulin receptor-related protein
+Q96PC2	IP6K3	Kinase	Tbio	Inositol hexakisphosphate kinase 3
+O43187	IRAK2	Kinase	Tbio	Interleukin-1 receptor-associated kinase-like 2
+O15264	MAPK13	Kinase	Tchem	Mitogen-activated protein kinase 13
+P33032	MC5R	GPCR	Tchem	Melanocortin receptor 5
+Q16659	MAPK6	Kinase	Tchem	Mitogen-activated protein kinase 6
+Q13164	MAPK7	Kinase	Tchem	Mitogen-activated protein kinase 7
+P45984	MAPK9	Kinase	Tchem	Mitogen-activated protein kinase 9
+P53779	MAPK10	Kinase	Tchem	Mitogen-activated protein kinase 10
+Q13163	MAP2K5	Kinase	Tchem	Dual specificity mitogen-activated protein kinase kinase 5
+P28482	MAPK1	Kinase	Tchem	Mitogen-activated protein kinase 1
+Q16539	MAPK14	Kinase	Tchem	Mitogen-activated protein kinase 14
+Q9NYL2	MAP3K20	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase MLT
+P31152	MAPK4	Kinase	Tbio	Mitogen-activated protein kinase 4
+P27361	MAPK3	Kinase	Tchem	Mitogen-activated protein kinase 3
+P45983	MAPK8	Kinase	Tchem	Mitogen-activated protein kinase 8
+P53778	MAPK12	Kinase	Tchem	Mitogen-activated protein kinase 12
+Q8TD08	MAPK15	Kinase	Tchem	Mitogen-activated protein kinase 15
+Q9NWW6	NMRK1	Kinase	Tbio	Nicotinamide riboside kinase 1
+Q8NGZ9	OR2T10	GPCR	Tdark	Olfactory receptor 2T10
+Q8NG77	OR2T12	GPCR	Tdark	Olfactory receptor 2T12
+Q8NGX2	OR2T35	GPCR	Tdark	Olfactory receptor 2T35
+Q8NGK1	OR51G1	GPCR	Tdark	Olfactory receptor 51G1
+Q9H344	OR51I2	GPCR	Tdark	Olfactory receptor 51I2
+Q8NGJ5	OR51L1	GPCR	Tdark	Olfactory receptor 51L1
+Q8NH59	OR51Q1	GPCR	Tdark	Olfactory receptor 51Q1
+Q8NGJ9	OR51T1	GPCR	Tdark	Olfactory receptor 51T1
+Q8NGK5	OR52M1	GPCR	Tdark	Olfactory receptor 52M1
+Q8NGI2	OR52N4	GPCR	Tdark	Olfactory receptor 52N4
+Q8NH54	OR56A3	GPCR	Tdark	Olfactory receptor 56A3
+Q8NGH8	OR56A4	GPCR	Tdark	Olfactory receptor 56A4
+Q8NH76	OR56B4	GPCR	Tdark	Olfactory receptor 56B4
+Q8NH89	OR5AK3P	GPCR	Tdark	Putative olfactory receptor 5AK3
+Q8NGF4	OR5AP2	GPCR	Tdark	Olfactory receptor 5AP2
+A6NHG9	OR5H14	GPCR	Tdark	Olfactory receptor 5H14
+A6NM76	OR6C76	GPCR	Tdark	Olfactory receptor 6C76
+Q8NGN4	OR10G9	GPCR	Tdark	Olfactory receptor 10G9
+O60403	OR10H2	GPCR	Tdark	Olfactory receptor 10H2
+P30954	OR10J1	GPCR	Tdark	Olfactory receptor 10J1
+Q8NGN2	OR10S1	GPCR	Tdark	Olfactory receptor 10S1
+Q8NGF6	OR10W1	GPCR	Tdark	Olfactory receptor 10W1
+Q8NGC9	OR11H4	GPCR	Tdark	Olfactory receptor 11H4
+B2RN74	OR11H12	GPCR	Tdark	Olfactory receptor 11H12
+Q8NGS6	OR13C3	GPCR	Tdark	Olfactory receptor 13C3
+Q8NGZ3	OR13G1	GPCR	Tdark	Olfactory receptor 13G1
+Q8NHC7	OR14C36	GPCR	Tdark	Olfactory receptor 14C36
+Q8NHC6	OR14L1P	GPCR	Tdark	Putative olfactory receptor 14L1
+Q8NGT7	OR2A12	GPCR	Tdark	Olfactory receptor 2A12
+A4D2G3	OR2A25	GPCR	Tdark	Olfactory receptor 2A25
+Q8NG84	OR2AK2	GPCR	Tdark	Olfactory receptor 2AK2
+Q8NH02	OR2T29	GPCR	Tdark	Olfactory receptor 2T29
+Q8NGX1	OR2T34	GPCR	Tdark	Olfactory receptor 2T34
+A6NMZ5	OR4C45	GPCR	Tdark	Olfactory receptor 4C45
+Q8NGJ6	OR51A4	GPCR	Tdark	Olfactory receptor 51A4
+Q9Y5P0	OR51B4	GPCR	Tdark	Olfactory receptor 51B4
+A6NGY5	OR51F1	GPCR	Tdark	Olfactory receptor 51F1
+Q9H343	OR51I1	GPCR	Tdark	Olfactory receptor 51I1
+Q9UKL2	OR52A1	GPCR	Tdark	Olfactory receptor 52A1
+Q9H346	OR52D1	GPCR	Tdark	Olfactory receptor 52D1
+Q8NGJ2	OR52H1	GPCR	Tdark	Olfactory receptor 52H1
+Q8NGK3	OR52K2	GPCR	Tdark	Olfactory receptor 52K2
+Q8NH56	OR52N5	GPCR	Tdark	Olfactory receptor 52N5
+Q8NGF1	OR52R1	GPCR	Tdark	Olfactory receptor 52R1
+Q8NGI1	OR56B2P	GPCR	Tdark	Putative olfactory receptor 56B2
+Q8NH90	OR5AK2	GPCR	Tdark	Olfactory receptor 5AK2
+Q8NGI8	OR5AN1	GPCR	Tdark	Olfactory receptor 5AN1
+Q8NGC0	OR5AU1	GPCR	Tdark	Olfactory receptor 5AU1
+A6NIJ9	OR6C70	GPCR	Tdark	Olfactory receptor 6C70
+Q9H093	NUAK2	Kinase	Tchem	NUAK family SNF1-like kinase 2
+Q8NH74	OR10A6	GPCR	Tdark	Olfactory receptor 10A6
+Q8NGE0	OR10AD1	GPCR	Tdark	Olfactory receptor 10AD1
+Q8NH80	OR10D3	GPCR	Tdark	Putative olfactory receptor 10D3
+Q8NGC4	OR10G3	GPCR	Tdark	Olfactory receptor 10G3
+Q8NH63	OR51H1	GPCR	Tdark	Olfactory receptor 51H1
+A6NMU1	OR52A4P	GPCR	Tdark	Olfactory receptor 52A4
+Q8NGK2	OR52B4	GPCR	Tdark	Olfactory receptor 52B4
+Q8NGJ3	OR52E1	GPCR	Tdark	Olfactory receptor 52E1
+Q8NGH9	OR52E4	GPCR	Tdark	Olfactory receptor 52E4
+Q6IFG1	OR52E8	GPCR	Tdark	Olfactory receptor 52E8
+Q8NGH6	OR52L2P	GPCR	Tdark	Putative olfactory receptor 52L2
+Q8NH53	OR52N1	GPCR	Tdark	Olfactory receptor 52N1
+Q8NGI0	OR52N2	GPCR	Tdark	Olfactory receptor 52N2
+Q6IF63	OR52W1	GPCR	Tdark	Olfactory receptor 52W1
+Q9NZP5	OR5AC2	GPCR	Tdark	Olfactory receptor 5AC2
+Q8NGP9	OR5AR1	GPCR	Tdark	Olfactory receptor 5AR1
+A6NDH6	OR5H15	GPCR	Tdark	Olfactory receptor 5H15
+A6NJZ3	OR6C65	GPCR	Tdark	Olfactory receptor 6C65
+P41143	OPRD1	GPCR	Tclin	Delta-type opioid receptor
+P58170	OR1D5	GPCR	Tdark	Olfactory receptor 1D5
+P47887	OR1E2	GPCR	Tdark	Olfactory receptor 1E2
+Q8NGS2	OR1J2	GPCR	Tdark	Olfactory receptor 1J2
+Q8NH94	OR1L1	GPCR	Tdark	Olfactory receptor 1L1
+Q8NGA1	OR1M1	GPCR	Tdark	Olfactory receptor 1M1
+Q8NGR9	OR1N2	GPCR	Tdark	Olfactory receptor 1N2
+Q96R45	OR2A7	GPCR	Tdark	Olfactory receptor 2A7
+O76000	OR2B3	GPCR	Tdark	Putative olfactory receptor 2B3
+O95371	OR2C1	GPCR	Tdark	Olfactory receptor 2C1
+Q8NG80	OR2L5	GPCR	Tdark	Olfactory receptor 2L5
+Q8N349	OR2L13	GPCR	Tdark	Olfactory receptor 2L13
+A3KFT3	OR2M5	GPCR	Tdark	Olfactory receptor 2M5
+P0C7T2	OR2T7	GPCR	Tdark	Olfactory receptor 2T7
+Q96R30	OR2V2	GPCR	Tdark	Olfactory receptor 2V2
+Q8NG97	OR2Z1	GPCR	Tdark	Olfactory receptor 2Z1
+Q9Y3N9	OR2W1	GPCR	Tdark	Olfactory receptor 2W1
+P47881	OR3A1	GPCR	Tdark	Olfactory receptor 3A1
+Q8NH83	OR4A5	GPCR	Tdark	Olfactory receptor 4A5
+Q8NGB2	OR4C5	GPCR	Tdark	Olfactory receptor 4C5
+Q8NH72	OR4C6	GPCR	Tdark	Olfactory receptor 4C6
+Q96R67	OR4C12	GPCR	Tdark	Olfactory receptor 4C12
+P58180	OR4D2	GPCR	Tdark	Olfactory receptor 4D2
+Q8NGJ1	OR4D6	GPCR	Tdark	Olfactory receptor 4D6
+Q8NGC2	OR4E2	GPCR	Tdark	Olfactory receptor 4E2
+Q8NH21	OR4F5	GPCR	Tdark	Olfactory receptor 4F5
+P0C623	OR4Q2	GPCR	Tdark	Olfactory receptor 4Q2
+Q8NGF9	OR4X2	GPCR	Tdark	Olfactory receptor 4X2
+Q8NGI9	OR5A2	GPCR	Tdark	Olfactory receptor 5A2
+Q8NGF7	OR5B17	GPCR	Tdark	Olfactory receptor 5B17
+Q8NGK9	OR5D16	GPCR	Tdark	Olfactory receptor 5D16
+Q8NGV6	OR5H6	GPCR	Tdark	Olfactory receptor 5H6
+Q13606	OR5I1	GPCR	Tdark	Olfactory receptor 5I1
+A6NET4	OR5K3	GPCR	Tdark	Olfactory receptor 5K3
+Q8NGP4	OR5M3	GPCR	Tdark	Olfactory receptor 5M3
+Q6IEU7	OR5M10	GPCR	Tdark	Olfactory receptor 5M10
+Q8NG75	OR5T1	GPCR	Tdark	Olfactory receptor 5T1
+O95222	OR6A2	GPCR	Tdark	Olfactory receptor 6A2
+Q6IFH4	OR6B2	GPCR	Tdark	Olfactory receptor 6B2
+Q9NZP2	OR6C2	GPCR	Tdark	Olfactory receptor 6C2
+A6NF89	OR6C6	GPCR	Tdark	Olfactory receptor 6C6
+Q8NGY5	OR6N1	GPCR	Tdark	Olfactory receptor 6N1
+Q8NH40	OR6S1	GPCR	Tdark	Olfactory receptor 6S1
+Q8N148	OR6V1	GPCR	Tdark	Olfactory receptor 6V1
+P0C7N1	OR8U8	GPCR	Tdark	Olfactory receptor 8U8
+Q8NGQ5	OR9Q1	GPCR	Tdark	Olfactory receptor 9Q1
+P47900	P2RY1	GPCR	Tchem	P2Y purinoceptor 1
+O00443	PIK3C2A	Kinase	Tchem	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha
+P27986	PIK3R1	Kinase	Tchem	Phosphatidylinositol 3-kinase regulatory subunit alpha
+P41586	ADCYAP1R1	GPCR	Tchem	Pituitary adenylate cyclase-activating polypeptide type I receptor
+Q8NHA4	OR2AE1	GPCR	Tdark	Olfactory receptor 2AE1
+A6NND4	OR2AT4	GPCR	Tdark	Olfactory receptor 2AT4
+Q8NGL6	OR4A15	GPCR	Tdark	Olfactory receptor 4A15
+Q8NH61	OR51F2	GPCR	Tdark	Olfactory receptor 51F2
+Q6U736	OPN5	GPCR	Tbio	Opsin-5
+P03999	OPN1SW	GPCR	Tbio	Short-wave-sensitive opsin 1
+P08100	RHO	GPCR	Tbio	Rhodopsin
+Q9P1Q5	OR1A1	GPCR	Tdark	Olfactory receptor 1A1
+Q8NGR6	OR1B1	GPCR	Tdark	Olfactory receptor 1B1
+Q8NHA8	OR1F12	GPCR	Tdark	Olfactory receptor 1F12
+Q8NGS3	OR1J1	GPCR	Tdark	Olfactory receptor 1J1
+Q8NGS1	OR1J4	GPCR	Tdark	Olfactory receptor 1J4
+Q8NGR5	OR1L4	GPCR	Tdark	Olfactory receptor 1L4
+Q8NGS0	OR1N1	GPCR	Tdark	Olfactory receptor 1N1
+Q8NGQ3	OR1S2	GPCR	Tdark	Olfactory receptor 1S2
+Q8NGT9	OR2A42	GPCR	Tdark	Olfactory receptor 2A1/2A42
+Q5JQS5	OR2B11	GPCR	Tdark	Olfactory receptor 2B11
+Q8N628	OR2C3	GPCR	Tdark	Olfactory receptor 2C3
+Q9GZK4	OR2H1	GPCR	Tdark	Olfactory receptor 2H1
+Q8NGT1	OR2K2	GPCR	Tdark	Olfactory receptor 2K2
+Q8NH03	OR2T3	GPCR	Tdark	Olfactory receptor 2T3
+Q8NHA6	OR2W6P	GPCR	Tdark	Putative olfactory receptor 2W6
+Q8NGB9	OR4F6	GPCR	Tdark	Olfactory receptor 4F6
+Q8NGD0	OR4M1	GPCR	Tdark	Olfactory receptor 4M1
+Q8NGD1	OR4N2	GPCR	Tdark	Olfactory receptor 4N2
+Q8NGB4	OR4S1	GPCR	Tdark	Olfactory receptor 4S1
+Q8NGP8	OR5M1	GPCR	Tdark	Olfactory receptor 5M1
+Q8NGP6	OR5M8	GPCR	Tdark	Olfactory receptor 5M8
+Q8WZ92	OR5P2	GPCR	Tdark	Olfactory receptor 5P2
+Q8NH85	OR5R1	GPCR	Tdark	Olfactory receptor 5R1
+Q8NGW1	OR6B3	GPCR	Tdark	Olfactory receptor 6B3
+Q96RD1	OR6C1	GPCR	Tdark	Olfactory receptor 6C1
+Q8NGY3	OR6K3	GPCR	Tdark	Olfactory receptor 6K3
+Q8NGX9	OR6P1	GPCR	Tdark	Olfactory receptor 6P1
+Q8NGX8	OR6Y1	GPCR	Tdark	Olfactory receptor 6Y1
+O60412	OR7C2	GPCR	Tdark	Olfactory receptor 7C2
+Q8NGG8	OR8B3	GPCR	Tdark	Olfactory receptor 8B3
+Q9GZM6	OR8D2	GPCR	Tdark	Olfactory receptor 8D2
+Q8NG78	OR8G5	GPCR	Tdark	Olfactory receptor 8G5
+Q8N146	OR8H3	GPCR	Tdark	Olfactory receptor 8H3
+Q8NGG5	OR8K1	GPCR	Tdark	Olfactory receptor 8K1
+Q8NH50	OR8K5	GPCR	Tdark	Olfactory receptor 8K5
+Q8NGT5	OR9A2	GPCR	Tdark	Olfactory receptor 9A2
+P0C7N8	OR9G9	GPCR	Tdark	Olfactory receptor 9G9
+Q8NGE5	OR10A7	GPCR	Tdark	Olfactory receptor 10A7
+Q8NH19	OR10AG1	GPCR	Tdark	Olfactory receptor 10AG1
+Q8NGN6	OR10G7	GPCR	Tdark	Olfactory receptor 10G7
+Q8NHC4	OR10J5	GPCR	Tdark	Olfactory receptor 10J5
+Q8NGE3	OR10P1	GPCR	Tdark	Olfactory receptor 10P1
+Q8NGX3	OR10T2	GPCR	Tdark	Olfactory receptor 10T2
+Q8NG94	OR11H1	GPCR	Tdark	Olfactory receptor 11H1
+Q8NGC7	OR11H6	GPCR	Tdark	Olfactory receptor 11H6
+Q8NGX0	OR11L1	GPCR	Tdark	Olfactory receptor 11L1
+P58182	OR12D2	GPCR	Tdark	Olfactory receptor 12D2
+Q8NGS5	OR13C4	GPCR	Tdark	Olfactory receptor 13C4
+Q8NGV5	OR13D1	GPCR	Tdark	Olfactory receptor 13D1
+Q8NHC5	OR14A16	GPCR	Tdark	Olfactory receptor 14A16
+Q8NGZ2	OR14K1	GPCR	Tdark	Olfactory receptor 14K1
+Q8NGB8	OR4F15	GPCR	Tdark	Olfactory receptor 4F15
+Q8NGJ7	OR51A2	GPCR	Tdark	Olfactory receptor 51A2
+Q9Y5P1	OR51B2	GPCR	Tdark	Olfactory receptor 51B2
+Q9H340	OR51B6	GPCR	Tdark	Olfactory receptor 51B6
+Q8TCB6	OR51E1	GPCR	Tbio	Olfactory receptor 51E1
+Q8NGK0	OR51G2	GPCR	Tdark	Olfactory receptor 51G2
+Q6IFN5	OR7E24	GPCR	Tdark	Olfactory receptor 7E24
+P34982	OR1D2	GPCR	Tbio	Olfactory receptor 1D2
+P30953	OR1E1	GPCR	Tdark	Olfactory receptor 1E1
+O43749	OR1F1	GPCR	Tdark	Olfactory receptor 1F1
+P47890	OR1G1	GPCR	Tdark	Olfactory receptor 1G1
+Q8NGR3	OR1K1	GPCR	Tdark	Olfactory receptor 1K1
+Q8NGR8	OR1L8	GPCR	Tdark	Olfactory receptor 1L8
+Q15612	OR1Q1	GPCR	Tdark	Olfactory receptor 1Q1
+O95006	OR2F2	GPCR	Tdark	Olfactory receptor 2F2
+Q8NGZ4	OR2G3	GPCR	Tdark	Olfactory receptor 2G3
+Q9GZK6	OR2J1	GPCR	Tdark	Olfactory receptor 2J1
+Q8NH16	OR2L2	GPCR	Tdark	Olfactory receptor 2L2
+Q8NH51	OR8K3	GPCR	Tdark	Olfactory receptor 8K3
+Q8NGU2	OR9A4	GPCR	Tdark	Olfactory receptor 9A4
+Q8NGQ6	OR9I1	GPCR	Tdark	Olfactory receptor 9I1
+Q8NGE9	OR9Q2	GPCR	Tdark	Olfactory receptor 9Q2
+O43613	HCRTR1	GPCR	Tclin	Orexin receptor type 1
+O43614	HCRTR2	GPCR	Tclin	Orexin receptor type 2
+Q9H208	OR10A2	GPCR	Tdark	Olfactory receptor 10A2
+Q9H209	OR10A4	GPCR	Tbio	Olfactory receptor 10A4
+Q8NH08	OR10AC1	GPCR	Tdark	Olfactory receptor 10AC1
+Q96KK4	OR10C1	GPCR	Tdark	Olfactory receptor 10C1
+Q8NGN3	OR10G4	GPCR	Tdark	Olfactory receptor 10G4
+Q8NGY0	OR10X1	GPCR	Tdark	Olfactory receptor 10X1
+Q8NH07	OR11H2	GPCR	Tdark	Olfactory receptor 11H2
+Q8NH95	OR13C6P	GPCR	Tdark	Putative olfactory receptor 13C6
+Q8NGS7	OR13C8	GPCR	Tdark	Olfactory receptor 13C8
+Q8NG92	OR13H1	GPCR	Tdark	Olfactory receptor 13H1
+Q9H205	OR2AG1	GPCR	Tdark	Olfactory receptor 2AG1
+Q5VST9	OBSCN	Kinase	Tbio	Obscurin
+Q9UHM6	OPN4	GPCR	Tbio	Melanopsin
+P41145	OPRK1	GPCR	Tclin	Kappa-type opioid receptor
+P35372	OPRM1	GPCR	Tclin	Mu-type opioid receptor
+Q15619	OR1C1	GPCR	Tdark	Olfactory receptor 1C1
+P47884	OR1D4	GPCR	Tdark	Olfactory receptor 1D4
+Q8WZA6	OR1E3	GPCR	Tdark	Olfactory receptor 1E3
+Q8NH06	OR1P1	GPCR	Tdark	Olfactory receptor 1P1
+O95047	OR2A4	GPCR	Tdark	Olfactory receptor 2A4
+Q9GZK3	OR2B2	GPCR	Tdark	Olfactory receptor 2B2
+P59922	OR2B8P	GPCR	Tdark	Putative olfactory receptor 2B8
+Q9H210	OR2D2	GPCR	Tdark	Olfactory receptor 2D2
+Q8NGZ5	OR2G2	GPCR	Tdark	Olfactory receptor 2G2
+Q8NG85	OR2L3	GPCR	Tdark	Olfactory receptor 2L3
+Q8NG83	OR2M3	GPCR	Tdark	Olfactory receptor 2M3
+Q8NG81	OR2M7	GPCR	Tdark	Olfactory receptor 2M7
+Q6IF00	OR2T2	GPCR	Tdark	Olfactory receptor 2T2
+Q8NH00	OR2T4	GPCR	Tdark	Olfactory receptor 2T4
+Q8NHB1	OR2V1	GPCR	Tdark	Olfactory receptor 2V1
+Q8NGV0	OR2Y1	GPCR	Tdark	Olfactory receptor 2Y1
+P0C604	OR4A8	GPCR	Tdark	Olfactory receptor 4A8
+Q8NH37	OR4C3	GPCR	Tdark	Olfactory receptor 4C3
+Q8NGP0	OR4C13	GPCR	Tdark	Olfactory receptor 4C13
+Q8NGL9	OR4C16	GPCR	Tdark	Olfactory receptor 4C16
+Q8NGN0	OR4D5	GPCR	Tdark	Olfactory receptor 4D5
+Q8NGE8	OR4D9	GPCR	Tdark	Olfactory receptor 4D9
+Q6IEY1	OR4F16	GPCR	Tdark	Olfactory receptor 4F3/4F16/4F29
+Q8NH05	OR4Q3	GPCR	Tbio	Olfactory receptor 4Q3
+Q8NH49	OR4X1	GPCR	Tdark	Olfactory receptor 4X1
+Q8NGJ0	OR5A1	GPCR	Tdark	Olfactory receptor 5A1
+Q8NGC5	OR6J1	GPCR	Tdark	Olfactory receptor 6J1
+Q8NGY2	OR6K2	GPCR	Tdark	Olfactory receptor 6K2
+Q96RA2	OR7D2	GPCR	Tdark	Olfactory receptor 7D2
+Q8NG99	OR7G2	GPCR	Tdark	Olfactory receptor 7G2
+P0C7N5	OR8U9	GPCR	Tdark	Olfactory receptor 8U9
+Q96P68	OXGR1	GPCR	Tbio	2-oxoglutarate receptor 1
+P58181	OR10A3	GPCR	Tdark	Olfactory receptor 10A3
+Q8NGN7	OR10D4P	GPCR	Tdark	Putative olfactory receptor 10D4
+Q8NGC3	OR10G2	GPCR	Tdark	Olfactory receptor 10G2
+Q8NH81	OR10G6	GPCR	Tdark	Olfactory receptor 10G6
+O60404	OR10H3	GPCR	Tdark	Olfactory receptor 10H3
+Q8NGA6	OR10H5	GPCR	Tdark	Olfactory receptor 10H5
+P0C629	OR10J4	GPCR	Tdark	Olfactory receptor 10J4
+Q8NGX5	OR10K1	GPCR	Tdark	Olfactory receptor 10K1
+Q8NGQ4	OR10Q1	GPCR	Tdark	Olfactory receptor 10Q1
+Q8NGI7	OR10V1	GPCR	Tdark	Olfactory receptor 10V1
+Q8NGY1	OR10Z1	GPCR	Tdark	Olfactory receptor 10Z1
+Q8NGC1	OR11G2	GPCR	Tdark	Olfactory receptor 11G2
+Q8NGC8	OR11H7	GPCR	Tdark	Olfactory receptor 11H7
+Q9UGF7	OR12D3	GPCR	Tdark	Olfactory receptor 12D3
+Q8NGS9	OR13C2	GPCR	Tdark	Olfactory receptor 13C2
+Q8NGS4	OR13F1	GPCR	Tdark	Olfactory receptor 13F1
+Q9UGF5	OR14J1	GPCR	Tdark	Olfactory receptor 14J1
+Q8NGZ0	OR2AJ1	GPCR	Tdark	Olfactory receptor 2AJ1
+Q8NH01	OR2T11	GPCR	Tdark	Olfactory receptor 2T11
+A6NHA9	OR4C46	GPCR	Tdark	Olfactory receptor 4C46
+O95013	OR4F21	GPCR	Tdark	Olfactory receptor 4F21
+Q9H339	OR51B5	GPCR	Tdark	Olfactory receptor 51B5
+Q9H342	OR51J1	GPCR	Tdark	Olfactory receptor 51J1
+Q9H341	OR51M1	GPCR	Tdark	Olfactory receptor 51M1
+Q8NGJ8	OR51S1	GPCR	Tdark	Olfactory receptor 51S1
+Q9H2C8	OR51V1	GPCR	Tdark	Olfactory receptor 51V1
+Q96RD2	OR52B2	GPCR	Tdark	Olfactory receptor 52B2
+Q8NGJ4	OR52E2	GPCR	Tdark	Olfactory receptor 52E2
+Q96RD3	OR52E6	GPCR	Tdark	Olfactory receptor 52E6
+Q8NH60	OR52J3	GPCR	Tdark	Olfactory receptor 52J3
+Q8NGK4	OR52K1	GPCR	Tdark	Olfactory receptor 52K1
+P0C646	OR52Z1	GPCR	Tdark	Olfactory receptor 52Z1
+Q8NGI3	OR56B1	GPCR	Tdark	Olfactory receptor 56B1
+A6NCV1	OR6C74	GPCR	Tdark	Olfactory receptor 6C74
+Q8NGY9	OR2L8	GPCR	Tdark	Olfactory receptor 2L8
+O43869	OR2T1	GPCR	Tdark	Olfactory receptor 2T1
+Q8NHC8	OR2T6	GPCR	Tdark	Olfactory receptor 2T6
+A6NFC9	OR2W5	GPCR	Tdark	Putative olfactory receptor 2W5
+Q8NGN8	OR4A4P	GPCR	Tdark	Putative olfactory receptor 4A4
+Q8NGI4	OR4D11	GPCR	Tdark	Olfactory receptor 4D11
+Q96R69	OR4F4	GPCR	Tdark	Olfactory receptor 4F4
+Q96R72	OR4K3	GPCR	Tdark	Olfactory receptor 4K3
+Q8NH42	OR4K13	GPCR	Tdark	Olfactory receptor 4K13
+Q8NH41	OR4K15	GPCR	Tdark	Olfactory receptor 4K15
+Q8NGB6	OR4M2	GPCR	Tdark	Olfactory receptor 4M2
+Q8N0Y3	OR4N4	GPCR	Tdark	Olfactory receptor 4N4
+Q8NH73	OR4S2	GPCR	Tdark	Olfactory receptor 4S2
+Q8NH48	OR5B3	GPCR	Tdark	Olfactory receptor 5B3
+Q8NH18	OR5J2	GPCR	Tdark	Olfactory receptor 5J2
+Q8NGL0	OR5L2	GPCR	Tdark	Olfactory receptor 5L2
+Q8NGG3	OR5T3	GPCR	Tdark	Olfactory receptor 5T3
+Q8NH69	OR5W2	GPCR	Tdark	Olfactory receptor 5W2
+Q8NGZ6	OR6F1	GPCR	Tdark	Olfactory receptor 6F1
+Q8NGM8	OR6M1	GPCR	Tdark	Olfactory receptor 6M1
+Q8NGQ2	OR6Q1	GPCR	Tdark	Olfactory receptor 6Q1
+Q8NH79	OR6X1	GPCR	Tdark	Olfactory receptor 6X1
+Q15622	OR7A5	GPCR	Tdark	Olfactory receptor 7A5
+Q8NGG7	OR8A1	GPCR	Tdark	Olfactory receptor 8A1
+Q15620	OR8B8	GPCR	Tdark	Olfactory receptor 8B8
+Q8NGM9	OR8D4	GPCR	Tdark	Olfactory receptor 8D4
+Q6IF36	OR8G2	GPCR	Tdark	Olfactory receptor 8G2
+Q8NGG4	OR8H1	GPCR	Tdark	Olfactory receptor 8H1
+Q8N0Y5	OR8I2	GPCR	Tdark	Olfactory receptor 8I2
+Q8NGP2	OR8J1	GPCR	Tdark	Olfactory receptor 8J1
+Q8NGU1	OR9A1P	GPCR	Tdark	Putative olfactory receptor 9A1
+Q8NH87	OR9G1	GPCR	Tdark	Olfactory receptor 9G1
+Q8NGQ1	OR9G4	GPCR	Tdark	Olfactory receptor 9G4
+P51575	P2RX1	IC	Tchem	P2X purinoceptor 1
+Q93086	P2RX5	IC	Tbio	P2X purinoceptor 5
+Q15077	P2RY6	GPCR	Tchem	P2Y purinoceptor 6
+Q86VZ1	P2RY8	GPCR	Tbio	P2Y purinoceptor 8
+O75747	PIK3C2G	Kinase	Tchem	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma
+Q13177	PAK2	Kinase	Tchem	Serine/threonine-protein kinase PAK 2
+O75914	PAK3	Kinase	Tchem	Serine/threonine-protein kinase PAK 3
+Q8TE04	PANK1	Kinase	Tchem	Pantothenate kinase 1
+P55085	F2RL1	GPCR	Tchem	Proteinase-activated receptor 2
+Q16654	PDK4	Kinase	Tbio	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 4, mitochondrial
+Q15743	GPR68	GPCR	Tbio	Ovarian cancer G-protein coupled receptor 1
+P41146	OPRL1	GPCR	Tchem	Nociceptin receptor
+O95747	OXSR1	Kinase	Tchem	Serine/threonine-protein kinase OSR1
+Q9NVE7	PANK4	Kinase	Tdark	Pantothenate kinase 4
+Q96RD6	PANX2	IC	Tbio	Pannexin-2
+Q58A45	PAN3	Kinase	Tdark	PAB-dependent poly(A)-specific ribonuclease subunit PAN3
+P56373	P2RX3	IC	Tchem	P2X purinoceptor 3
+O15547	P2RX6	IC	Tbio	P2X purinoceptor 6
+Q9H244	P2RY12	GPCR	Tclin	P2Y purinoceptor 12
+Q9BPV8	P2RY13	GPCR	Tchem	P2Y purinoceptor 13
+Q9Y5Y4	PTGDR2	GPCR	Tchem	Prostaglandin D2 receptor 2
+Q8TDS5	OXER1	GPCR	Tchem	Oxoeicosanoid receptor 1
+Q99572	P2RX7	IC	Tchem	P2X purinoceptor 7
+Q9P286	PAK5	Kinase	Tchem	Serine/threonine-protein kinase PAK 5
+Q9BZ23	PANK2	Kinase	Tchem	Pantothenate kinase 2, mitochondrial
+Q96RD7	PANX1	IC	Tbio	Pannexin-1
+P25116	F2R	GPCR	Tclin	Proteinase-activated receptor 1
+Q96RI0	F2RL3	GPCR	Tchem	Proteinase-activated receptor 4
+Q96RG2	PASK	Kinase	Tbio	PAS domain-containing serine/threonine-protein kinase
+P51582	P2RY4	GPCR	Tchem	P2Y purinoceptor 4
+Q96G91	P2RY11	GPCR	Tchem	P2Y purinoceptor 11
+P04001	OPN1MW2	GPCR	Tdark	Medium-wave-sensitive opsin 1
+P04000	OPN1LW	GPCR	Tbio	Long-wave-sensitive opsin 1
+O14718	RRH	GPCR	Tbio	Visual pigment-like receptor peropsin
+Q6IF42	OR2A2	GPCR	Tdark	Olfactory receptor 2A2
+Q13607	OR2F1	GPCR	Tdark	Olfactory receptor 2F1
+O95918	OR2H2	GPCR	Tbio	Olfactory receptor 2H2
+O76002	OR2J2	GPCR	Tdark	Olfactory receptor 2J2
+Q96R28	OR2M2	GPCR	Tdark	Olfactory receptor 2M2
+Q9NQN1	OR2S2	GPCR	Tdark	Olfactory receptor 2S2
+Q6IEZ7	OR2T5	GPCR	Tdark	Olfactory receptor 2T5
+P47883	OR3A4P	GPCR	Tdark	Putative olfactory receptor 3A4
+Q8NGD4	OR4K1	GPCR	Tdark	Olfactory receptor 4K1
+Q8NGC6	OR4K17	GPCR	Tdark	Olfactory receptor 4K17
+Q8NGL7	OR4P4	GPCR	Tdark	Olfactory receptor 4P4
+Q96R09	OR5B2	GPCR	Tdark	Olfactory receptor 5B2
+Q8NGR4	OR5C1	GPCR	Tdark	Olfactory receptor 5C1
+Q8NGL4	OR5D13	GPCR	Tdark	Olfactory receptor 5D13
+O95221	OR5F1	GPCR	Tdark	Olfactory receptor 5F1
+Q8NGV7	OR5H2	GPCR	Tdark	Olfactory receptor 5H2
+Q8NHB8	OR5K2	GPCR	Tdark	Olfactory receptor 5K2
+A6NMS3	OR5K4	GPCR	Tdark	Olfactory receptor 5K4
+Q8NGP3	OR5M9	GPCR	Tdark	Olfactory receptor 5M9
+Q96RB7	OR5M11	GPCR	Tdark	Olfactory receptor 5M11
+Q8WZ94	OR5P3	GPCR	Tdark	Olfactory receptor 5P3
+Q8NGG2	OR5T2	GPCR	Tdark	Olfactory receptor 5T2
+Q9UGF6	OR5V1	GPCR	Tdark	Olfactory receptor 5V1
+Q8NGE1	OR6C4	GPCR	Tdark	Olfactory receptor 6C4
+Q8NGA2	OR7A2P	GPCR	Tdark	Putative olfactory receptor 7A2
+O76100	OR7A10	GPCR	Tdark	Olfactory receptor 7A10
+O76099	OR7C1	GPCR	Tdark	Olfactory receptor 7C1
+Q8NGA0	OR7G1	GPCR	Tdark	Olfactory receptor 7G1
+Q96RD0	OR8B2	GPCR	Tdark	Olfactory receptor 8B2
+Q15617	OR8G1	GPCR	Tdark	Olfactory receptor 8G1
+Q8N162	OR8H2	GPCR	Tdark	Olfactory receptor 8H2
+Q8NGG1	OR8J2	GPCR	Tdark	Olfactory receptor 8J2
+Q8NGG0	OR8J3	GPCR	Tdark	Olfactory receptor 8J3
+Q8NH10	OR8U1	GPCR	Tdark	Olfactory receptor 8U1
+P30559	OXTR	GPCR	Tclin	Oxytocin receptor
+P41231	P2RY2	GPCR	Tclin	P2Y purinoceptor 2
+Q8IZE3	SCYL3	Kinase	Tdark	Protein-associating with the carboxyl-terminal domain of ezrin
+Q9H1Y3	OPN3	GPCR	Tbio	Opsin-3
+Q9Y585	OR1A2	GPCR	Tdark	Olfactory receptor 1A2
+Q96R84	OR1F2P	GPCR	Tdark	Putative olfactory receptor 1F2
+O60431	OR1I1	GPCR	Tdark	Olfactory receptor 1I1
+Q8NH93	OR1L3	GPCR	Tdark	Olfactory receptor 1L3
+Q8NGR2	OR1L6	GPCR	Tdark	Olfactory receptor 1L6
+Q8NH92	OR1S1	GPCR	Tdark	Olfactory receptor 1S1
+Q96R48	OR2A5	GPCR	Tdark	Olfactory receptor 2A5
+P58173	OR2B6	GPCR	Tdark	Olfactory receptor 2B6
+Q8NGH3	OR2D3	GPCR	Tdark	Olfactory receptor 2D3
+Q5TZ20	OR2G6	GPCR	Tdark	Olfactory receptor 2G6
+Q8NGU4	OR2I1P	GPCR	Tdark	Putative olfactory receptor 2I1
+O76001	OR2J3	GPCR	Tdark	Olfactory receptor 2J3
+Q96R27	OR2M4	GPCR	Tdark	Olfactory receptor 2M4
+A6NH00	OR2T8	GPCR	Tdark	Olfactory receptor 2T8
+Q7Z3T1	OR2W3	GPCR	Tbio	Olfactory receptor 2W3
+P47893	OR3A2	GPCR	Tdark	Olfactory receptor 3A2
+P47888	OR3A3	GPCR	Tdark	Olfactory receptor 3A3
+Q8NGF8	OR4B1	GPCR	Tdark	Olfactory receptor 4B1
+Q6IEV9	OR4C11	GPCR	Tdark	Olfactory receptor 4C11
+Q8NGM1	OR4C15	GPCR	Tdark	Olfactory receptor 4C15
+Q15615	OR4D1	GPCR	Tdark	Olfactory receptor 4D1
+Q8NGI6	OR4D10	GPCR	Tdark	Olfactory receptor 4D10
+P0C645	OR4E1	GPCR	Tdark	Olfactory receptor 4E1
+Q8NGD2	OR4K2	GPCR	Tdark	Olfactory receptor 4K2
+Q8NGD3	OR4K5	GPCR	Tdark	Olfactory receptor 4K5
+Q8NGD5	OR4K14	GPCR	Tdark	Olfactory receptor 4K14
+Q8NH43	OR4L1	GPCR	Tdark	Olfactory receptor 4L1
+Q8IXE1	OR4N5	GPCR	Tdark	Olfactory receptor 4N5
+Q96R08	OR5B12	GPCR	Tdark	Olfactory receptor 5B12
+A6NL26	OR5B21	GPCR	Tdark	Olfactory receptor 5B21
+Q8NGL3	OR5D14	GPCR	Tdark	Olfactory receptor 5D14
+Q8NGL1	OR5D18	GPCR	Tdark	Olfactory receptor 5D18
+P0C626	OR5G3	GPCR	Tdark	Olfactory receptor 5G3
+A6NKK0	OR5H1	GPCR	Tdark	Olfactory receptor 5H1
+Q8NHB7	OR5K1	GPCR	Tdark	Olfactory receptor 5K1
+Q8NGL2	OR5L1	GPCR	Tdark	Olfactory receptor 5L1
+O95007	OR6B1	GPCR	Tdark	Olfactory receptor 6B1
+Q9NZP0	OR6C3	GPCR	Tdark	Olfactory receptor 6C3
+Q8NGW6	OR6K6	GPCR	Tdark	Olfactory receptor 6K6
+Q8NGY6	OR6N2	GPCR	Tdark	Olfactory receptor 6N2
+Q8NGN1	OR6T1	GPCR	Tdark	Olfactory receptor 6T1
+O14581	OR7A17	GPCR	Tdark	Olfactory receptor 7A17
+Q8NG98	OR7D4	GPCR	Tbio	Olfactory receptor 7D4
+Q8NG95	OR7G3	GPCR	Tdark	Olfactory receptor 7G3
+Q96RC9	OR8B4	GPCR	Tdark	Olfactory receptor 8B4
+Q8NGG6	OR8B12	GPCR	Tdark	Olfactory receptor 8B12
+Q8WZ84	OR8D1	GPCR	Tdark	Olfactory receptor 8D1
+Q8NH09	OR8S1	GPCR	Tdark	Olfactory receptor 8S1
+Q8NGE7	OR9K2	GPCR	Tdark	Olfactory receptor 9K2
+O00398	P2RY10	GPCR	Tchem	Putative P2Y purinoceptor 10
+Q15391	P2RY14	GPCR	Tbio	P2Y purinoceptor 14
+O00750	PIK3C2B	Kinase	Tchem	Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta
+Q9H999	PANK3	Kinase	Tchem	Pantothenate kinase 3
+P49674	CSNK1E	Kinase	Tchem	Casein kinase I isoform epsilon
+Q9Y6M4	CSNK1G3	Kinase	Tchem	Casein kinase I isoform gamma-3
+Q96L42	KCNH8	IC	Tclin	Potassium voltage-gated channel subfamily H member 8
+Q92806	KCNJ9	IC	Tbio	G protein-activated inward rectifier potassium channel 3
+O00180	KCNK1	IC	Tbio	Potassium channel subfamily K member 1
+O95069	KCNK2	IC	Tclin	Potassium channel subfamily K member 2
+P10721	KIT	Kinase	Tclin	Mast/stem cell growth factor receptor Kit
+Q14573	ITPR3	IC	Tchem	Inositol 1,4,5-trisphosphate receptor type 3
+P54819	AK2	Kinase	Tbio	Adenylate kinase 2, mitochondrial
+P78368	CSNK1G2	Kinase	Tchem	Casein kinase I isoform gamma-2
+Q13303	KCNAB2	IC	Tbio	Voltage-gated potassium channel subunit beta-2
+Q9UQM7	CAMK2A	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type II subunit alpha
+Q13554	CAMK2B	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type II subunit beta
+Q6PIL6	KCNIP4	IC	Tbio	Kv channel-interacting protein 4
+P78508	KCNJ10	IC	Tbio	ATP-sensitive inward rectifier potassium channel 10
+Q14654	KCNJ11	IC	Tclin	ATP-sensitive inward rectifier potassium channel 11
+Q12791	KCNMA1	IC	Tclin	Calcium-activated potassium channel subunit alpha-1
+Q16558	KCNMB1	IC	Tbio	Calcium-activated potassium channel subunit beta-1
+Q09470	KCNA1	IC	Tclin	Potassium voltage-gated channel subfamily A member 1
+P17658	KCNA6	IC	Tclin	Potassium voltage-gated channel subfamily A member 6
+Q9NSA2	KCND1	IC	Tclin	Potassium voltage-gated channel subfamily D member 1
+Q9UK17	KCND3	IC	Tclin	Potassium voltage-gated channel subfamily D member 3
+Q8WWG9	KCNE4	IC	Tbio	Potassium voltage-gated channel subfamily E member 4
+Q8TDN1	KCNG4	IC	Tclin	Potassium voltage-gated channel subfamily G member 4
+O95259	KCNH1	IC	Tclin	Potassium voltage-gated channel subfamily H member 1
+P48050	KCNJ4	IC	Tchem	Inward rectifier potassium channel 4
+O14649	KCNK3	IC	Tclin	Potassium channel subfamily K member 3
+Q9NWZ3	IRAK4	Kinase	Tchem	Interleukin-1 receptor-associated kinase 4
+P23458	JAK1	Kinase	Tclin	Tyrosine-protein kinase JAK1
+O60674	JAK2	Kinase	Tclin	Tyrosine-protein kinase JAK2
+P22694	PRKACB	Kinase	Tchem	cAMP-dependent protein kinase catalytic subunit beta
+O95279	KCNK5	IC	Tbio	Potassium channel subfamily K member 5
+Q96T55	KCNK16	IC	Tdark	Potassium channel subfamily K member 16
+Q9UGI6	KCNN3	IC	Tchem	Small conductance calcium-activated potassium channel protein 3
+O15554	KCNN4	IC	Tchem	Intermediate conductance calcium-activated potassium channel protein 4
+O43526	KCNQ2	IC	Tclin	Potassium voltage-gated channel subfamily KQT member 2
+P56696	KCNQ4	IC	Tclin	Potassium voltage-gated channel subfamily KQT member 4
+P00568	AK1	Kinase	Tbio	Adenylate kinase isoenzyme 1
+P22612	PRKACG	Kinase	Tbio	cAMP-dependent protein kinase catalytic subunit gamma
+Q6P2M8	PNCK	Kinase	Tbio	Calcium/calmodulin-dependent protein kinase type 1B
+Q8IU85	CAMK1D	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type 1D
+Q96KK3	KCNS1	IC	Tclin	Potassium voltage-gated channel subfamily S member 1
+P30085	CMPK1	Kinase	Tbio	UMP-CMP kinase
+O00142	TK2	Kinase	Tchem	Thymidine kinase 2, mitochondrial
+P46020	PHKA1	Kinase	Tbio	Phosphorylase b kinase regulatory subunit alpha, skeletal muscle isoform
+Q9Y3D8	AK6	Kinase	Tbio	Adenylate kinase isoenzyme 6
+O60229	KALRN	Kinase	Tbio	Kalirin
+P48730	CSNK1D	Kinase	Tchem	Casein kinase I isoform delta
+Q13555	CAMK2G	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type II subunit gamma
+Q9NS61	KCNIP2	IC	Tbio	Kv channel-interacting protein 2
+O60928	KCNJ13	IC	Tbio	Inward rectifier potassium channel 13
+Q9NPI9	KCNJ16	IC	Tbio	Inward rectifier potassium channel 16
+P16389	KCNA2	IC	Tclin	Potassium voltage-gated channel subfamily A member 2
+Q969F8	KISS1R	GPCR	Tchem	KiSS-1 receptor
+Q13572	ITPK1	Kinase	Tbio	Inositol-tetrakisphosphate 1-kinase
+Q9UIJ7	AK3	Kinase	Tbio	GTP:AMP phosphotransferase AK3, mitochondrial
+Q9Y6K8	AK5	Kinase	Tbio	Adenylate kinase isoenzyme 5
+Q8N752	CSNK1A1L	Kinase	Tchem	Casein kinase I isoform alpha-like
+P48729	CSNK1A1	Kinase	Tchem	Casein kinase I isoform alpha
+Q14722	KCNAB1	IC	Tbio	Voltage-gated potassium channel subunit beta-1
+O43448	KCNAB3	IC	Tdark	Voltage-gated potassium channel subunit beta-3
+B7U540	KCNJ18	IC	Tdark	Inward rectifier potassium channel 18
+Q9Y691	KCNMB2	IC	Tbio	Calcium-activated potassium channel subunit beta-2
+P22001	KCNA3	IC	Tclin	Potassium voltage-gated channel subfamily A member 3
+Q96RP8	KCNA7	IC	Tclin	Potassium voltage-gated channel subfamily A member 7
+Q14003	KCNC3	IC	Tclin	Potassium voltage-gated channel subfamily C member 3
+P63252	KCNJ2	IC	Tbio	Inward rectifier potassium channel 2
+P57789	KCNK10	IC	Tclin	Potassium channel subfamily K member 10
+Q9H427	KCNK15	IC	Tbio	Potassium channel subfamily K member 15
+P51787	KCNQ1	IC	Tclin	Potassium voltage-gated channel subfamily KQT member 1
+Q9ULS6	KCNS2	IC	Tclin	Potassium voltage-gated channel subfamily S member 2
+Q16322	KCNA10	IC	Tclin	Potassium voltage-gated channel subfamily A member 10
+Q14012	CAMK1	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type 1
+Q92953	KCNB2	IC	Tclin	Potassium voltage-gated channel subfamily B member 2
+P48547	KCNC1	IC	Tclin	Potassium voltage-gated channel subfamily C member 1
+Q9Y6J6	KCNE2	IC	Tbio	Potassium voltage-gated channel subfamily E member 2
+Q9UJ96	KCNG2	IC	Tclin	Potassium voltage-gated channel subfamily G member 2
+Q8NCM2	KCNH5	IC	Tclin	Potassium voltage-gated channel subfamily H member 5
+P48051	KCNJ6	IC	Tchem	G protein-activated inward rectifier potassium channel 2
+Q15842	KCNJ8	IC	Tbio	ATP-sensitive inward rectifier potassium channel 8
+Q9NPC2	KCNK9	IC	Tclin	Potassium channel subfamily K member 9
+Q9HB15	KCNK12	IC	Tbio	Potassium channel subfamily K member 12
+Q9HB14	KCNK13	IC	Tbio	Potassium channel subfamily K member 13
+Q7Z418	KCNK18	IC	Tclin	Potassium channel subfamily K member 18
+Q9BQ31	KCNS3	IC	Tclin	Potassium voltage-gated channel subfamily S member 3
+Q5JUK3	KCNT1	IC	Tchem	Potassium channel subfamily T member 1
+Q6PIU1	KCNV1	IC	Tclin	Potassium voltage-gated channel subfamily V member 1
+P12277	CKB	Kinase	Tbio	Creatine kinase B-type
+P06732	CKM	Kinase	Tbio	Creatine kinase M-type
+P12532	CKMT1A	Kinase	Tbio	Creatine kinase U-type, mitochondrial
+Q03426	MVK	Kinase	Tbio	Mevalonate kinase
+P41743	PRKCI	Kinase	Tchem	Protein kinase C iota type
+Q5TCS8	AK9	Kinase	Tbio	Adenylate kinase 9
+Q9HCP0	CSNK1G1	Kinase	Tchem	Casein kinase I isoform gamma-1
+Q16566	CAMK4	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type IV
+Q9NZI2	KCNIP1	IC	Tbio	Kv channel-interacting protein 1
+Q9UNX9	KCNJ14	IC	Tdark	ATP-sensitive inward rectifier potassium channel 14
+Q9NPA1	KCNMB3	IC	Tbio	Calcium-activated potassium channel subunit beta-3
+P22459	KCNA4	IC	Tclin	Potassium voltage-gated channel subfamily A member 4
+P22460	KCNA5	IC	Tclin	Potassium voltage-gated channel subfamily A member 5
+Q9UIX4	KCNG1	IC	Tclin	Potassium voltage-gated channel subfamily G member 1
+Q9ULD8	KCNH3	IC	Tclin	Potassium voltage-gated channel subfamily H member 3
+Q9UQ05	KCNH4	IC	Tclin	Potassium voltage-gated channel subfamily H member 4
+P48549	KCNJ3	IC	Tbio	G protein-activated inward rectifier potassium channel 1
+Q9NYG8	KCNK4	IC	Tbio	Potassium channel subfamily K member 4
+Q9Y257	KCNK6	IC	Tbio	Potassium channel subfamily K member 6
+Q9H2S1	KCNN2	IC	Tchem	Small conductance calcium-activated potassium channel protein 2
+O43525	KCNQ3	IC	Tclin	Potassium voltage-gated channel subfamily KQT member 3
+Q9NR82	KCNQ5	IC	Tclin	Potassium voltage-gated channel subfamily KQT member 5
+A8MYU2	KCNU1	IC	Tbio	Potassium channel subfamily U member 1
+P52333	JAK3	Kinase	Tclin	Tyrosine-protein kinase JAK3
+P27144	AK4	Kinase	Tbio	Adenylate kinase 4, mitochondrial
+Q13557	CAMK2D	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type II subunit delta
+Q14500	KCNJ12	IC	Tbio	ATP-sensitive inward rectifier potassium channel 12
+Q99712	KCNJ15	IC	Tbio	ATP-sensitive inward rectifier potassium channel 15
+Q14721	KCNB1	IC	Tclin	Potassium voltage-gated channel subfamily B member 1
+Q9NZV8	KCND2	IC	Tclin	Potassium voltage-gated channel subfamily D member 2
+Q9Y6H6	KCNE3	IC	Tbio	Potassium voltage-gated channel subfamily E member 3
+Q9H3M0	KCNF1	IC	Tclin	Potassium voltage-gated channel subfamily F member 1
+Q8TAE7	KCNG3	IC	Tclin	Potassium voltage-gated channel subfamily G member 3
+Q12809	KCNH2	IC	Tclin	Potassium voltage-gated channel subfamily H member 2
+P48048	KCNJ1	IC	Tchem	ATP-sensitive inward rectifier potassium channel 1
+Q6UVM3	KCNT2	IC	Tbio	Potassium channel subfamily T member 2
+Q8TDN2	KCNV2	IC	Tclin	Potassium voltage-gated channel subfamily V member 2
+P17540	CKMT2	Kinase	Tbio	Creatine kinase S-type, mitochondrial
+Q96NX5	CAMK1G	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase type 1G
+Q86W47	KCNMB4	IC	Tbio	Calcium-activated potassium channel subunit beta-4
+Q96PR1	KCNC2	IC	Tclin	Potassium voltage-gated channel subfamily C member 2
+Q03721	KCNC4	IC	Tclin	Potassium voltage-gated channel subfamily C member 4
+P15382	KCNE1	IC	Tbio	Potassium voltage-gated channel subfamily E member 1
+Q9H252	KCNH6	IC	Tclin	Potassium voltage-gated channel subfamily H member 6
+Q9NS40	KCNH7	IC	Tclin	Potassium voltage-gated channel subfamily H member 7
+P48544	KCNJ5	IC	Tbio	G protein-activated inward rectifier potassium channel 4
+Q9Y2U2	KCNK7	IC	Tdark	Potassium channel subfamily K member 7
+Q96T54	KCNK17	IC	Tbio	Potassium channel subfamily K member 17
+Q92952	KCNN1	IC	Tchem	Small conductance calcium-activated potassium channel protein 1
+Q15139	PRKD1	Kinase	Tchem	Serine/threonine-protein kinase D1
+O94806	PRKD3	Kinase	Tchem	Serine/threonine-protein kinase D3
+Q04759	PRKCQ	Kinase	Tchem	Protein kinase C theta type
+P11801	PSKH1	Kinase	Tdark	Serine/threonine-protein kinase H1
+P14618	PKM	Kinase	Tchem	Pyruvate kinase PKM
+Q9UBS0	RPS6KB2	Kinase	Tchem	Ribosomal protein S6 kinase beta-2
+P43405	SYK	Kinase	Tchem	Tyrosine-protein kinase SYK
+P17252	PRKCA	Kinase	Tchem	Protein kinase C alpha type
+Q02156	PRKCE	Kinase	Tchem	Protein kinase C epsilon type
+Q05513	PRKCZ	Kinase	Tchem	Protein kinase C zeta type
+Q15418	RPS6KA1	Kinase	Tchem	Ribosomal protein S6 kinase alpha-1
+O75676	RPS6KA4	Kinase	Tchem	Ribosomal protein S6 kinase alpha-4
+O75582	RPS6KA5	Kinase	Tchem	Ribosomal protein S6 kinase alpha-5
+P23443	RPS6KB1	Kinase	Tchem	Ribosomal protein S6 kinase beta-1
+Q6VAB6	KSR2	Kinase	Tbio	Kinase suppressor of Ras 2
+O75473	LGR5	GPCR	Tbio	Leucine-rich repeat-containing G-protein coupled receptor 5
+Q13237	PRKG2	Kinase	Tchem	cGMP-dependent protein kinase 2
+Q16774	GUK1	Kinase	Tbio	Guanylate kinase
+P50053	KHK	Kinase	Tchem	Ketohexokinase
+P30613	PKLR	Kinase	Tbio	Pyruvate kinase PKLR
+Q9UK32	RPS6KA6	Kinase	Tchem	Ribosomal protein S6 kinase alpha-6
+P23919	DTYMK	Kinase	Tbio	Thymidylate kinase
+Q96S38	RPS6KC1	Kinase	Tdark	Ribosomal protein S6 kinase delta-1
+Q13976	PRKG1	Kinase	Tchem	cGMP-dependent protein kinase 1
+P04183	TK1	Kinase	Tchem	Thymidine kinase, cytosolic
+Q8N5S9	CAMKK1	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase kinase 1
+Q96RR4	CAMKK2	Kinase	Tchem	Calcium/calmodulin-dependent protein kinase kinase 2
+P46019	PHKA2	Kinase	Tbio	Phosphorylase b kinase regulatory subunit alpha, liver isoform
+Q9BZL6	PRKD2	Kinase	Tchem	Serine/threonine-protein kinase D2
+Q9HA64	FN3KRP	Kinase	Tbio	Ketosamine-3-kinase
+O95835	LATS1	Kinase	Tchem	Serine/threonine-protein kinase LATS1
+Q05655	PRKCD	Kinase	Tclin	Protein kinase C delta type
+P05129	PRKCG	Kinase	Tchem	Protein kinase C gamma type
+P24723	PRKCH	Kinase	Tchem	Protein kinase C eta type
+Q9NRM7	LATS2	Kinase	Tchem	Serine/threonine-protein kinase LATS2
+Q9HBX8	LGR6	GPCR	Tbio	Leucine-rich repeat-containing G-protein coupled receptor 6
+P53671	LIMK2	Kinase	Tchem	LIM domain kinase 2
+Q38SD2	LRRK1	Kinase	Tbio	Leucine-rich repeat serine/threonine-protein kinase 1
+P43657	LPAR6	GPCR	Tchem	Lysophosphatidic acid receptor 6
+P06239	LCK	Kinase	Tclin	Tyrosine-protein kinase Lck
+Q15349	RPS6KA2	Kinase	Tchem	Ribosomal protein S6 kinase alpha-2
+P51812	RPS6KA3	Kinase	Tchem	Ribosomal protein S6 kinase alpha-3
+Q9BXB1	LGR4	GPCR	Tbio	Leucine-rich repeat-containing G-protein coupled receptor 4
+Q96Q04	LMTK3	Kinase	Tbio	Serine/threonine-protein kinase LMTK3
+Q99677	LPAR4	GPCR	Tchem	Lysophosphatidic acid receptor 4
+P05771	PRKCB	Kinase	Tchem	Protein kinase C beta type
+Q96QS6	PSKH2	Kinase	Tdark	Serine/threonine-protein kinase H2
+Q8IVT5	KSR1	Kinase	Tbio	Kinase suppressor of Ras 1
+P53667	LIMK1	Kinase	Tchem	LIM domain kinase 1
+P07948	LYN	Kinase	Tclin	Tyrosine-protein kinase Lyn
+Q5VT99	LRRC38	IC	Tdark	Leucine-rich repeat-containing protein 38
+Q99705	MCHR1	GPCR	Tchem	Melanin-concentrating hormone receptor 1
+Q8TDD5	MCOLN3	IC	Tbio	Mucolipin-3
+Q9Y4K4	MAP4K5	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase kinase 5
+P20794	MAK	Kinase	Tchem	Serine/threonine-protein kinase MAK
+Q16644	MAPKAPK3	Kinase	Tchem	MAP kinase-activated protein kinase 3
+P27448	MARK3	Kinase	Tchem	MAP/microtubule affinity-regulating kinase 3
+P41968	MC3R	GPCR	Tchem	Melanocortin receptor 3
+Q02779	MAP3K10	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 10
+Q12852	MAP3K12	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 12
+Q6ZN16	MAP3K15	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 15
+P41279	MAP3K8	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 8
+Q8IVH8	MAP4K3	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase kinase 3
+P49137	MAPKAPK2	Kinase	Tchem	MAP kinase-activated protein kinase 2
+Q8IW41	MAPKAPK5	Kinase	Tchem	MAP kinase-activated protein kinase 5
+Q9P0L2	MARK1	Kinase	Tchem	Serine/threonine-protein kinase MARK1
+Q7KZI7	MARK2	Kinase	Tchem	Serine/threonine-protein kinase MARK2
+Q96L34	MARK4	Kinase	Tchem	MAP/microtubule affinity-regulating kinase 4
+O60307	MAST3	Kinase	Tchem	Microtubule-associated serine/threonine-protein kinase 3
+P04201	MAS1	GPCR	Tbio	Proto-oncogene Mas
+O43318	MAP3K7	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 7
+Q12851	MAP4K2	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase kinase 2
+Q9HBW0	LPAR2	GPCR	Tchem	Lysophosphatidic acid receptor 2
+Q9H1C0	LPAR5	GPCR	Tchem	Lysophosphatidic acid receptor 5
+P22888	LHCGR	GPCR	Tclin	Lutropin-choriogonadotropic hormone receptor
+Q15722	LTB4R	GPCR	Tchem	Leukotriene B4 receptor 1
+Q9NPC1	LTB4R2	GPCR	Tbio	Leukotriene B4 receptor 2
+Q6ZMQ8	AATK	Kinase	Tbio	Serine/threonine-protein kinase LMTK1
+Q8IWU2	LMTK2	Kinase	Tbio	Serine/threonine-protein kinase LMTK2
+Q9UBY5	LPAR3	GPCR	Tchem	Lysophosphatidic acid receptor 3
+Q2I0M4	LRRC26	IC	Tbio	Leucine-rich repeat-containing protein 26
+Q6ZSA7	LRRC55	IC	Tdark	Leucine-rich repeat-containing protein 55
+P29376	LTK	Kinase	Tchem	Leukocyte tyrosine kinase receptor
+O43283	MAP3K13	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 13
+Q99558	MAP3K14	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 14
+Q9Y2U5	MAP3K2	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 2
+Q99683	MAP3K5	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 5
+P80192	MAP3K9	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 9
+Q92633	LPAR1	GPCR	Tchem	Lysophosphatidic acid receptor 1
+Q16584	MAP3K11	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 11
+Q13233	MAP3K1	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 1
+O95382	MAP3K6	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 6
+Q56UN5	MAP3K19	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 19
+Q99759	MAP3K3	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 3
+Q9Y6R4	MAP3K4	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase 4
+Q8N7C0	LRRC52	IC	Tdark	Leucine-rich repeat-containing protein 52
+Q5S007	LRRK2	Kinase	Tchem	Leucine-rich repeat serine/threonine-protein kinase 2
+P35410	MAS1L	GPCR	Tbio	Mas-related G-protein coupled receptor MRG
+Q9Y2H9	MAST1	Kinase	Tchem	Microtubule-associated serine/threonine-protein kinase 1
+Q6P0Q8	MAST2	Kinase	Tbio	Microtubule-associated serine/threonine-protein kinase 2
+Q5TCX8	MAP3K21	Kinase	Tdark	Mitogen-activated protein kinase kinase kinase MLK4
+Q92918	MAP4K1	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase kinase 1
+O95819	MAP4K4	Kinase	Tchem	Mitogen-activated protein kinase kinase kinase kinase 4
+O15021	MAST4	Kinase	Tbio	Microtubule-associated serine/threonine-protein kinase 4
+P32245	MC4R	GPCR	Tchem	Melanocortin receptor 4
+P42679	MATK	Kinase	Tchem	Megakaryocyte-associated tyrosine-protein kinase
+P08235	NR3C2	NR	Tclin	Mineralocorticoid receptor
+Q14680	MELK	Kinase	Tchem	Maternal embryonic leucine zipper kinase
+P08581	MET	Kinase	Tclin	Hepatocyte growth factor receptor
+Q969V1	MCHR2	GPCR	Tchem	Melanin-concentrating hormone receptor 2
+Q8IZK6	MCOLN2	IC	Tbio	Mucolipin-2
+Q9GZU1	MCOLN1	IC	Tbio	Mucolipin-1
+Q8NE86	MCU	IC	Tbio	Calcium uniporter protein, mitochondrial
+Q12866	MERTK	Kinase	Tchem	Tyrosine-protein kinase Mer
+P52564	MAP2K6	Kinase	Tchem	Dual specificity mitogen-activated protein kinase kinase 6
+Q96LA9	MRGPRX4	GPCR	Tdark	Mas-related G-protein coupled receptor member X4
+P46734	MAP2K3	Kinase	Tchem	Dual specificity mitogen-activated protein kinase kinase 3
+Q96AM1	MRGPRF	GPCR	Tdark	Mas-related G-protein coupled receptor member F
+O43193	MLNR	GPCR	Tchem	Motilin receptor
+Q6DT37	CDC42BPG	Kinase	Tchem	Serine/threonine-protein kinase MRCK gamma
+Q9UQ07	MOK	Kinase	Tbio	MAPK/MAK/MRK overlapping kinase
+Q01726	MC1R	GPCR	Tclin	Melanocyte-stimulating hormone receptor
+O14733	MAP2K7	Kinase	Tchem	Dual specificity mitogen-activated protein kinase kinase 7
+Q15049	MLC1	IC	Tbio	Membrane protein MLC1
+Q96LB0	MRGPRX3	GPCR	Tdark	Mas-related G-protein coupled receptor member X3
+Q9HBH9	MKNK2	Kinase	Tchem	MAP kinase-interacting serine/threonine-protein kinase 2
+P00540	MOS	Kinase	Tbio	Proto-oncogene serine/threonine-protein kinase mos
+Q02750	MAP2K1	Kinase	Tclin	Dual specificity mitogen-activated protein kinase kinase 1
+P45985	MAP2K4	Kinase	Tchem	Dual specificity mitogen-activated protein kinase kinase 4
+Q8N4C8	MINK1	Kinase	Tchem	Misshapen-like kinase 1
+Q15759	MAPK11	Kinase	Tchem	Mitogen-activated protein kinase 11
+P36507	MAP2K2	Kinase	Tclin	Dual specificity mitogen-activated protein kinase kinase 2
+Q9BUB5	MKNK1	Kinase	Tchem	MAP kinase-interacting serine/threonine-protein kinase 1
+Q8NB16	MLKL	Kinase	Tbio	Mixed lineage kinase domain-like protein
+Q13585	GPR50	GPCR	Tbio	Melatonin-related receptor
+P42345	MTOR	Kinase	Tclin	Serine/threonine-protein kinase mTOR
+P49286	MTNR1B	GPCR	Tclin	Melatonin receptor type 1B
+Q8NEV4	MYO3A	Kinase	Tchem	Myosin-IIIa
+O15146	MUSK	Kinase	Tchem	Muscle, skeletal receptor tyrosine-protein kinase
+Q32MK0	MYLK3	Kinase	Tchem	Myosin light chain kinase 3
+Q15746	MYLK	Kinase	Tchem	Myosin light chain kinase, smooth muscle
+Q8TDS7	MRGPRD	GPCR	Tbio	Mas-related G-protein coupled receptor member D
+Q86SM8	MRGPRE	GPCR	Tbio	Mas-related G-protein coupled receptor member E
+Q96LB1	MRGPRX2	GPCR	Tbio	Mas-related G-protein coupled receptor member X2
+Q5VT25	CDC42BPA	Kinase	Tchem	Serine/threonine-protein kinase MRCK alpha
+Q9Y5S2	CDC42BPB	Kinase	Tchem	Serine/threonine-protein kinase MRCK beta
+Q86SM5	MRGPRG	GPCR	Tdark	Mas-related G-protein coupled receptor member G
+Q96LB2	MRGPRX1	GPCR	Tchem	Mas-related G-protein coupled receptor member X1
+Q9H1R3	MYLK2	Kinase	Tchem	Myosin light chain kinase 2, skeletal/cardiac muscle
+Q86YV6	MYLK4	Kinase	Tchem	Myosin light chain kinase family member 4
+O95544	NADK	Kinase	Tbio	NAD kinase
+P48039	MTNR1A	GPCR	Tclin	Melatonin receptor type 1A
+Q4G0N4	NADK2	Kinase	Tbio	NAD kinase 2, mitochondrial
+Q8WXR4	MYO3B	Kinase	Tchem	Myosin-IIIb
+Q9HC98	NEK6	Kinase	Tchem	Serine/threonine-protein kinase Nek6
+Q9UJ70	NAGK	Kinase	Tbio	N-acetyl-D-glucosamine kinase
+Q8IZF0	NALCN	IC	Tbio	Sodium leak channel non-selective protein
+Q8NG66	NEK11	Kinase	Tchem	Serine/threonine-protein kinase Nek11
+P51956	NEK3	Kinase	Tchem	Serine/threonine-protein kinase Nek3
+P22392	NME1-NME2	Kinase	Tbio	Nucleoside diphosphate kinase B
+P56597	NME5	Kinase	Tbio	Nucleoside diphosphate kinase homolog 5
+P48145	NPBWR1	GPCR	Tchem	Neuropeptides B/W receptor type 1
+P29371	TACR3	GPCR	Tchem	Neuromedin-K receptor
+P28336	NMBR	GPCR	Tchem	Neuromedin-B receptor
+O60391	GRIN3B	IC	Tclin	Glutamate receptor ionotropic, NMDA 3B
+O60361	NME2P1	Kinase	Tdark	Putative nucleoside diphosphate kinase
+Q6P3R8	NEK5	Kinase	Tchem	Serine/threonine-protein kinase Nek5
+Q86SG6	NEK8	Kinase	Tbio	Serine/threonine-protein kinase Nek8
+Q6W5P4	NPSR1	GPCR	Tchem	Neuropeptide S receptor
+P51843	NR0B1	NR	Tbio	Nuclear receptor subfamily 0 group B member 1
+Q14995	NR1D2	NR	Tchem	Nuclear receptor subfamily 1 group D member 2
+O75469	NR1I2	NR	Tchem	Nuclear receptor subfamily 1 group I member 2
+P13056	NR2C1	NR	Tbio	Nuclear receptor subfamily 2 group C member 1
+Q9UHY1	NRBP1	Kinase	Tbio	Nuclear receptor-binding protein
+Q9UBE8	NLK	Kinase	Tchem	Serine/threonine-protein kinase NLK
+Q13224	GRIN2B	IC	Tclin	Glutamate receptor ionotropic, NMDA 2B
+Q9GZQ4	NMUR2	GPCR	Tchem	Neuromedin-U receptor 2
+Q9GZQ6	NPFFR1	GPCR	Tchem	Neuropeptide FF receptor 1
+P25929	NPY1R	GPCR	Tchem	Neuropeptide Y receptor type 1
+Q99463	NPY6R	GPCR	Tbio	Putative neuropeptide Y receptor type 6
+Q15466	NR0B2	NR	Tchem	Nuclear receptor subfamily 0 group B member 2
+P20393	NR1D1	NR	Tchem	Nuclear receptor subfamily 1 group D member 1
+Q7Z2Y5	NRK	Kinase	Tdark	Nik-related protein kinase
+Q13232	NME3	Kinase	Tbio	Nucleoside diphosphate kinase 3
+P25103	TACR1	GPCR	Tclin	Substance-P receptor
+P21452	TACR2	GPCR	Tchem	Substance-K receptor
+O75414	NME6	Kinase	Tbio	Nucleoside diphosphate kinase 6
+P51957	NEK4	Kinase	Tchem	Serine/threonine-protein kinase Nek4
+Q8TDX7	NEK7	Kinase	Tchem	Serine/threonine-protein kinase Nek7
+Q8TD19	NEK9	Kinase	Tchem	Serine/threonine-protein kinase Nek9
+P48146	NPBWR2	GPCR	Tbio	Neuropeptides B/W receptor type 2
+P55055	NR1H2	NR	Tchem	Oxysterols receptor LXR-beta
+Q15406	NR6A1	NR	Tbio	Nuclear receptor subfamily 6 group A member 1
+Q6ZWH5	NEK10	Kinase	Tdark	Serine/threonine-protein kinase Nek10
+Q96PY6	NEK1	Kinase	Tchem	Serine/threonine-protein kinase Nek1
+P51955	NEK2	Kinase	Tchem	Serine/threonine-protein kinase Nek2
+Q9Y6K9	IKBKG	Kinase	Tbio	NF-kappa-B essential modulator
+Q8IY84	NIM1K	Kinase	Tchem	Serine/threonine-protein kinase NIM1
+P15531	NME1	Kinase	Tbio	Nucleoside diphosphate kinase A
+O00746	NME4	Kinase	Tbio	Nucleoside diphosphate kinase, mitochondrial
+Q12879	GRIN2A	IC	Tclin	Glutamate receptor ionotropic, NMDA 2A
+Q14957	GRIN2C	IC	Tclin	Glutamate receptor ionotropic, NMDA 2C
+Q9NSY0	NRBP2	Kinase	Tdark	Nuclear receptor-binding protein 2
+P30989	NTSR1	GPCR	Tchem	Neurotensin receptor type 1
+O95665	NTSR2	GPCR	Tchem	Neurotensin receptor type 2
+P49116	NR2C2	NR	Tchem	Nuclear receptor subfamily 2 group C member 2
+Q9Y5X4	NR2E3	NR	Tbio	Photoreceptor-specific nuclear receptor
+P22736	NR4A1	NR	Tchem	Nuclear receptor subfamily 4 group A member 1
+O00482	NR5A2	NR	Tchem	Nuclear receptor subfamily 5 group A member 2
+Q9H207	OR10A5	GPCR	Tdark	Olfactory receptor 10A5
+Q8NGN5	OR10G8	GPCR	Tdark	Olfactory receptor 10G8
+Q9Y4A9	OR10H1	GPCR	Tdark	Olfactory receptor 10H1
+Q8NGA5	OR10H4	GPCR	Tdark	Olfactory receptor 10H4
+Q5JRS4	OR10J3	GPCR	Tdark	Olfactory receptor 10J3
+Q8NGY7	OR10J6P	GPCR	Tdark	Putative olfactory receptor 10J6
+Q6IF99	OR10K2	GPCR	Tdark	Olfactory receptor 10K2
+Q8NGX6	OR10R2	GPCR	Tdark	Olfactory receptor 10R2
+Q9GZK7	OR11A1	GPCR	Tdark	Olfactory receptor 11A1
+Q8NGR1	OR13A1	GPCR	Tdark	Olfactory receptor 13A1
+Q8NGS8	OR13C5	GPCR	Tdark	Olfactory receptor 13C5
+Q8NGT0	OR13C9	GPCR	Tdark	Olfactory receptor 13C9
+Q8NGT2	OR13J1	GPCR	Tdark	Olfactory receptor 13J1
+Q96R54	OR14A2	GPCR	Tdark	Olfactory receptor 14A2
+A6ND48	OR14I1	GPCR	Tdark	Olfactory receptor 14I1
+Q96R47	OR2A14	GPCR	Tdark	Olfactory receptor 2A14
+A6NM03	OR2AG2	GPCR	Tdark	Olfactory receptor 2AG2
+Q8NGE2	OR2AP1	GPCR	Tdark	Olfactory receptor 2AP1
+Q8NH04	OR2T27	GPCR	Tdark	Olfactory receptor 2T27
+Q8NG76	OR2T33	GPCR	Tdark	Olfactory receptor 2T33
+Q8NH70	OR4A16	GPCR	Tdark	Olfactory receptor 4A16
+Q6IF82	OR4A47	GPCR	Tdark	Olfactory receptor 4A47
+Q8NGA8	OR4F17	GPCR	Tdark	Olfactory receptor 4F17
+Q8NH64	OR51A7	GPCR	Tdark	Olfactory receptor 51A7
+Q8NGF3	OR51D1	GPCR	Tdark	Olfactory receptor 51D1
+Q9H255	OR51E2	GPCR	Tbio	Olfactory receptor 51E2
+Q9H2C5	OR52A5	GPCR	Tdark	Olfactory receptor 52A5
+Q8NGF0	OR52B6	GPCR	Tdark	Olfactory receptor 52B6
+Q8NH55	OR52E5	GPCR	Tdark	Olfactory receptor 52E5
+Q8NGK6	OR52I1	GPCR	Tdark	Olfactory receptor 52I1
+Q8NH67	OR52I2	GPCR	Tdark	Olfactory receptor 52I2
+Q8NGH7	OR52L1	GPCR	Tdark	Olfactory receptor 52L1
+Q8NH57	OR52P1P	GPCR	Tdark	Putative olfactory receptor 52P1
+Q8NGH5	OR56A1	GPCR	Tdark	Olfactory receptor 56A1
+P0C7T3	OR56A5	GPCR	Tdark	Olfactory receptor 56A5
+P0C628	OR5AC1	GPCR	Tdark	Olfactory receptor 5AC1
+P0C617	OR5AL1	GPCR	Tdark	Olfactory receptor 5AL1
+Q8N127	OR5AS1	GPCR	Tdark	Olfactory receptor 5AS1
+A6NDL8	OR6C68	GPCR	Tdark	Olfactory receptor 6C68
+A6NL08	OR6C75	GPCR	Tdark	Olfactory receptor 6C75
+P04629	NTRK1	Kinase	Tchem	High affinity nerve growth factor receptor
+Q9Y5X5	NPFFR2	GPCR	Tchem	Neuropeptide FF receptor 2
+P49146	NPY2R	GPCR	Tchem	Neuropeptide Y receptor type 2
+P50391	NPY4R	GPCR	Tchem	Neuropeptide Y receptor type 4
+Q15761	NPY5R	GPCR	Tchem	Neuropeptide Y receptor type 5
+P10588	NR2F6	NR	Tbio	Nuclear receptor subfamily 2 group F member 6
+P43354	NR4A2	NR	Tchem	Nuclear receptor subfamily 4 group A member 2
+Q92570	NR4A3	NR	Tbio	Nuclear receptor subfamily 4 group A member 3
+Q13133	NR1H3	NR	Tchem	Oxysterols receptor LXR-alpha
+Q96RI1	NR1H4	NR	Tclin	Bile acid receptor
+Q9Y466	NR2E1	NR	Tbio	Nuclear receptor subfamily 2 group E member 1
+Q16620	NTRK2	Kinase	Tchem	BDNF/NT-3 growth factors receptor
+O60285	NUAK1	Kinase	Tchem	NUAK family SNF1-like kinase 1
+Q8TCU5	GRIN3A	IC	Tclin	Glutamate receptor ionotropic, NMDA 3A
+O15399	GRIN2D	IC	Tclin	Glutamate receptor ionotropic, NMDA 2D
+Q05586	GRIN1	IC	Tclin	Glutamate receptor ionotropic, NMDA 1
+Q9HB89	NMUR1	GPCR	Tbio	Neuromedin-U receptor 1
+Q14994	NR1I3	NR	Tchem	Nuclear receptor subfamily 1 group I member 3
+Q9NPI5	NMRK2	Kinase	Tbio	Nicotinamide riboside kinase 2
+Q13153	PAK1	Kinase	Tchem	Serine/threonine-protein kinase PAK 1
+O96013	PAK4	Kinase	Tchem	Serine/threonine-protein kinase PAK 4
+Q13258	PTGDR	GPCR	Tclin	Prostaglandin D2 receptor
+P07205	PGK2	Kinase	Tbio	Phosphoglycerate kinase 2
+Q15120	PDK3	Kinase	Tbio	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial
+P43116	PTGER2	GPCR	Tclin	Prostaglandin E2 receptor EP2 subtype
+P43115	PTGER3	GPCR	Tclin	Prostaglandin E2 receptor EP3 subtype
+P35408	PTGER4	GPCR	Tclin	Prostaglandin E2 receptor EP4 subtype
+P17858	PFKL	Kinase	Tbio	ATP-dependent 6-phosphofructokinase, liver type
+Q96QZ0	PANX3	IC	Tbio	Pannexin-3
+Q16822	PCK2	Kinase	Tbio	Phosphoenolpyruvate carboxykinase [GTP], mitochondrial
+O15530	PDPK1	Kinase	Tchem	3-phosphoinositide-dependent protein kinase 1
+Q9UBL9	P2RX2	IC	Tbio	P2X purinoceptor 2
+Q99571	P2RX4	IC	Tchem	P2X purinoceptor 4
+Q9BTU6	PI4K2A	Kinase	Tbio	Phosphatidylinositol 4-kinase type 2-alpha
+Q9NQU5	PAK6	Kinase	Tchem	Serine/threonine-protein kinase PAK 6
+P35558	PCK1	Kinase	Tchem	Phosphoenolpyruvate carboxykinase, cytosolic [GTP]
+O00764	PDXK	Kinase	Tbio	Pyridoxal kinase
+P43088	PTGFR	GPCR	Tclin	Prostaglandin F2-alpha receptor
+P08237	PFKM	Kinase	Tbio	ATP-dependent 6-phosphofructokinase, muscle type
+Q01813	PFKP	Kinase	Tbio	ATP-dependent 6-phosphofructokinase, platelet type
+Q16816	PHKG1	Kinase	Tchem	Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform
+P15735	PHKG2	Kinase	Tchem	Phosphorylase b kinase gamma catalytic chain, liver/testis isoform
+O00254	F2RL2	GPCR	Tbio	Proteinase-activated receptor 3
+Q6A1A2	PDPK2P	Kinase	Tdark	Putative 3-phosphoinositide-dependent protein kinase 2
+Q8N165	PDIK1L	Kinase	Tdark	Serine/threonine-protein kinase PDIK1L
+Q15118	PDK1	Kinase	Tchem	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 1, mitochondrial
+Q15119	PDK2	Kinase	Tchem	[Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 2, mitochondrial
+P34995	PTGER1	GPCR	Tclin	Prostaglandin E2 receptor EP1 subtype
+Q92508	PIEZO1	IC	Tbio	Piezo-type mechanosensitive ion channel component 1
+Q9H5I5	PIEZO2	IC	Tbio	Piezo-type mechanosensitive ion channel component 2
+P78356	PIP4K2B	Kinase	Tchem	Phosphatidylinositol 5-phosphate 4-kinase type-2 beta
+Q99755	PIP5K1A	Kinase	Tchem	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha
+Q9BXM7	PINK1	Kinase	Tbio	Serine/threonine-protein kinase PINK1, mitochondrial
+Q13563	PKD2	IC	Tchem	Polycystin-2
+Q6P5Z2	PKN3	Kinase	Tbio	Serine/threonine-protein kinase N3
+P53350	PLK1	Kinase	Tchem	Serine/threonine-protein kinase PLK1
+Q99570	PIK3R4	Kinase	Tbio	Phosphoinositide 3-kinase regulatory subunit 4
+Q9UBF8	PI4KB	Kinase	Tchem	Phosphatidylinositol 4-kinase beta
+Q7Z443	PKD1L3	IC	Tbio	Polycystic kidney disease protein 1-like 3
+Q99640	PKMYT1	Kinase	Tchem	Membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase
+Q9P0L9	PKD2L1	IC	Tbio	Polycystic kidney disease 2-like 1 protein
+Q9NYY3	PLK2	Kinase	Tchem	Serine/threonine-protein kinase PLK2
+Q9NZM6	PKD2L2	IC	Tbio	Polycystic kidney disease 2-like 2 protein
+P42336	PIK3CA	Kinase	Tchem	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform
+Q496M5	PLK5	Kinase	Tbio	Inactive serine/threonine-protein kinase PLK5
+P16234	PDGFRA	Kinase	Tclin	Platelet-derived growth factor receptor alpha
+P09619	PDGFRB	Kinase	Tclin	Platelet-derived growth factor receptor beta
+P00558	PGK1	Kinase	Tbio	Phosphoglycerate kinase 1
+P48426	PIP4K2A	Kinase	Tbio	Phosphatidylinositol 5-phosphate 4-kinase type-2 alpha
+P11309	PIM1	Kinase	Tchem	Serine/threonine-protein kinase pim-1
+P48736	PIK3CG	Kinase	Tchem	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform
+Q16512	PKN1	Kinase	Tchem	Serine/threonine-protein kinase N1
+Q9H792	PEAK1	Kinase	Tbio	Pseudopodium-enriched atypical kinase 1
+O14986	PIP5K1B	Kinase	Tbio	Phosphatidylinositol 4-phosphate 5-kinase type-1 beta
+Q9P1W9	PIM2	Kinase	Tchem	Serine/threonine-protein kinase pim-2
+Q9H4B4	PLK3	Kinase	Tchem	Serine/threonine-protein kinase PLK3
+O00444	PLK4	Kinase	Tchem	Serine/threonine-protein kinase PLK4
+P43119	PTGIR	GPCR	Tclin	Prostacyclin receptor
+Q8TBX8	PIP4K2C	Kinase	Tchem	Phosphatidylinositol 5-phosphate 4-kinase type-2 gamma
+P42356	PI4KA	Kinase	Tchem	Phosphatidylinositol 4-kinase alpha
+O60331	PIP5K1C	Kinase	Tchem	Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma
+Q86V86	PIM3	Kinase	Tchem	Serine/threonine-protein kinase pim-3
+Q7Z442	PKD1L2	IC	Tdark	Polycystic kidney disease protein 1-like 2
+Q8NEB9	PIK3C3	Kinase	Tchem	Phosphatidylinositol 3-kinase catalytic subunit type 3
+O00329	PIK3CD	Kinase	Tclin	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+Q9NTG1	PKDREJ	IC	Tdark	Polycystic kidney disease and receptor for egg jelly-related protein
+O00168	FXYD1	IC	Tbio	Phospholemman
+P06401	PGR	NR	Tclin	Progesterone receptor
+P78527	PRKDC	Kinase	Tchem	DNA-dependent protein kinase catalytic subunit
+Q8TDX9	PKD1L1	IC	Tdark	Polycystic kidney disease protein 1-like 1
+P42338	PIK3CB	Kinase	Tchem	Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform
+Q504Y2	PKDCC	Kinase	Tbio	Extracellular tyrosine-protein kinase PKDCC
+Q16513	PKN2	Kinase	Tchem	Serine/threonine-protein kinase N2
+Q8NFJ6	PROKR2	GPCR	Tbio	Prokineticin receptor 2
+Q03181	PPARD	NR	Tchem	Peroxisome proliferator-activated receptor delta
+P37231	PPARG	NR	Tclin	Peroxisome proliferator-activated receptor gamma
+O75569	PRKRA	Kinase	Tbio	Interferon-inducible double-stranded RNA-dependent protein kinase activator A
+Q8TCW9	PROKR1	GPCR	Tchem	Prokineticin receptor 1
+Q9Y342	PLLP	IC	Tbio	Plasmolipin
+Q07869	PPARA	NR	Tclin	Peroxisome proliferator-activated receptor alpha
+Q96S44	TP53RK	Kinase	Tbio	TP53-regulating kinase
+P49190	PTH2R	GPCR	Tchem	Parathyroid hormone 2 receptor
+Q13523	PRPF4B	Kinase	Tchem	Serine/threonine-protein kinase PRP4 homolog
+P21108	PRPS1L1	Kinase	Tdark	Ribose-phosphate pyrophosphokinase 3
+O43930	PRKY	Kinase	Tdark	Putative serine/threonine-protein kinase PRKY
+P49683	PRLHR	GPCR	Tbio	Prolactin-releasing peptide receptor
+P25105	PTAFR	GPCR	Tchem	Platelet-activating factor receptor
+P11908	PRPS2	Kinase	Tbio	Ribose-phosphate pyrophosphokinase 2
+Q03431	PTH1R	GPCR	Tclin	Parathyroid hormone/parathyroid hormone-related peptide receptor
+P60891	PRPS1	Kinase	Tbio	Ribose-phosphate pyrophosphokinase 1
+P51817	PRKX	Kinase	Tchem	cAMP-dependent protein kinase catalytic subunit PRKX
+Q8IYL9	GPR65	GPCR	Tbio	Psychosine receptor
+Q13882	PTK6	Kinase	Tchem	Protein-tyrosine kinase 6
+Q13308	PTK7	Kinase	Tbio	Inactive tyrosine-protein kinase 7
+Q8IV42	PSTK	Kinase	Tdark	L-seryl-tRNA(Sec) kinase
+P04049	RAF1	Kinase	Tclin	RAF proto-oncogene serine/threonine-protein kinase
+Q8NFJ5	GPRC5A	GPCR	Tbio	Retinoic acid-induced protein 3
+P10276	RARA	NR	Tclin	Retinoic acid receptor alpha
+Q7Z7A4	PXK	Kinase	Tbio	PX domain-containing protein kinase-like protein
+Q9Y2K2	SIK3	Kinase	Tchem	Serine/threonine-protein kinase SIK3
+Q9HBY8	SGK2	Kinase	Tchem	Serine/threonine-protein kinase Sgk2
+Q9H0K1	SIK2	Kinase	Tchem	Serine/threonine-protein kinase SIK2
+Q86YV5	SGK223	Kinase	Tbio	Tyrosine-protein kinase SgK223
+Q9H2G2	SLK	Kinase	Tchem	STE20-like serine/threonine-protein kinase
+Q99835	SMO	GPCR	Tclin	Smoothened homolog
+O60939	SCN2B	IC	Tbio	Sodium channel subunit beta-2
+Q01118	SCN7A	IC	Tclin	Sodium channel protein type 7 subunit alpha
+Q9UQD0	SCN8A	IC	Tclin	Sodium channel protein type 8 subunit alpha
+Q96LW2	SGK494	Kinase	Tdark	Uncharacterized serine/threonine-protein kinase SgK494
+Q96BR1	SGK3	Kinase	Tchem	Serine/threonine-protein kinase Sgk3
+P57059	SIK1	Kinase	Tchem	Serine/threonine-protein kinase SIK1
+Q9UHJ6	SHPK	Kinase	Tbio	Sedoheptulokinase
+P13631	RARG	NR	Tclin	Retinoic acid receptor gamma
+Q96P65	QRFPR	GPCR	Tchem	Pyroglutamylated RFamide peptide receptor
+P10826	RARB	NR	Tclin	Retinoic acid receptor beta
+Q9H477	RBKS	Kinase	Tbio	Ribokinase
+Q15835	GRK1	Kinase	Tchem	Rhodopsin kinase
+Q9Y572	RIPK3	Kinase	Tbio	Receptor-interacting serine/threonine-protein kinase 3
+O43353	RIPK2	Kinase	Tchem	Receptor-interacting serine/threonine-protein kinase 2
+O14730	RIOK3	Kinase	Tchem	Serine/threonine-protein kinase RIO3
+P57078	RIPK4	Kinase	Tchem	Receptor-interacting serine/threonine-protein kinase 4
+P07949	RET	Kinase	Tclin	Proto-oncogene tyrosine-protein kinase receptor Ret
+P47804	RGR	GPCR	Tbio	RPE-retinal G protein-coupled receptor
+Q9BRS2	RIOK1	Kinase	Tchem	Serine/threonine-protein kinase RIO1
+Q13546	RIPK1	Kinase	Tchem	Receptor-interacting serine/threonine-protein kinase 1
+Q9BVS4	RIOK2	Kinase	Tchem	Serine/threonine-protein kinase RIO2
+Q9NSD7	RXFP3	GPCR	Tbio	Relaxin-3 receptor 1
+Q8TDU9	RXFP4	GPCR	Tbio	Relaxin-3 receptor 2
+Q13464	ROCK1	Kinase	Tclin	Rho-associated protein kinase 1
+Q05823	RNASEL	Kinase	Tchem	2-5A-dependent ribonuclease
+O75116	ROCK2	Kinase	Tclin	Rho-associated protein kinase 2
+P35398	RORA	NR	Tchem	Nuclear receptor ROR-alpha
+P51449	RORC	NR	Tchem	Nuclear receptor ROR-gamma
+P08922	ROS1	Kinase	Tchem	Proto-oncogene tyrosine-protein kinase ROS
+Q04912	MST1R	Kinase	Tchem	Macrophage-stimulating protein receptor
+Q01974	ROR2	Kinase	Tbio	Tyrosine-protein kinase transmembrane receptor ROR2
+Q01973	ROR1	Kinase	Tbio	Inactive tyrosine-protein kinase transmembrane receptor ROR1
+Q92753	RORB	NR	Tchem	Nuclear receptor ROR-beta
+Q9Y6S9	RPS6KL1	Kinase	Tdark	Ribosomal protein S6 kinase-like 1
+P48443	RXRG	NR	Tclin	Retinoic acid receptor RXR-gamma
+Q52WX2	SBK1	Kinase	Tchem	Serine/threonine-protein kinase SBK1
+P35498	SCN1A	IC	Tclin	Sodium channel protein type 1 subunit alpha
+Q99250	SCN2A	IC	Tclin	Sodium channel protein type 2 subunit alpha
+P51172	SCNN1D	IC	Tbio	Amiloride-sensitive sodium channel subunit delta
+Q9HBX9	RXFP1	GPCR	Tbio	Relaxin receptor 1
+P21453	S1PR1	GPCR	Tclin	Sphingosine 1-phosphate receptor 1
+Q99500	S1PR3	GPCR	Tclin	Sphingosine 1-phosphate receptor 3
+Q9H2B4	SLC26A1	IC	Tbio	Sulfate anion transporter 1
+Q8WXD0	RXFP2	GPCR	Tbio	Relaxin receptor 2
+P19793	RXRA	NR	Tclin	Retinoic acid receptor RXR-alpha
+O95977	S1PR4	GPCR	Tclin	Sphingosine 1-phosphate receptor 4
+Q9BXS9	SLC26A6	IC	Tbio	Solute carrier family 26 member 6
+P28702	RXRB	NR	Tclin	Retinoic acid receptor RXR-beta
+P34925	RYK	Kinase	Tbio	Tyrosine-protein kinase RYK
+P21817	RYR1	IC	Tclin	Ryanodine receptor 1
+Q92736	RYR2	IC	Tclin	Ryanodine receptor 2
+Q9H228	S1PR5	GPCR	Tclin	Sphingosine 1-phosphate receptor 5
+Q15413	RYR3	IC	Tclin	Ryanodine receptor 3
+Q9Y5Y9	SCN10A	IC	Tclin	Sodium channel protein type 10 subunit alpha
+Q9UI33	SCN11A	IC	Tclin	Sodium channel protein type 11 subunit alpha
+P51170	SCNN1G	IC	Tclin	Amiloride-sensitive sodium channel subunit gamma
+P51168	SCNN1B	IC	Tclin	Amiloride-sensitive sodium channel subunit beta
+P0C264	SBK3	Kinase	Tchem	Uncharacterized serine/threonine-protein kinase SBK3
+Q9NY46	SCN3A	IC	Tclin	Sodium channel protein type 3 subunit alpha
+Q8IWT1	SCN4B	IC	Tbio	Sodium channel subunit beta-4
+Q14524	SCN5A	IC	Tclin	Sodium channel protein type 5 subunit alpha
+O95136	S1PR2	GPCR	Tchem	Sphingosine 1-phosphate receptor 2
+Q07699	SCN1B	IC	Tbio	Sodium channel subunit beta-1
+P47872	SCTR	GPCR	Tclin	Secretin receptor
+Q96KG9	SCYL1	Kinase	Tbio	N-terminal kinase-like protein
+P37088	SCNN1A	IC	Tclin	Amiloride-sensitive sodium channel subunit alpha
+Q6P3W7	SCYL2	Kinase	Tbio	SCY1-like protein 2
+Q9H5K3	POMK	Kinase	Tdark	Protein O-mannose kinase
+P0C263	SBK2	Kinase	Tdark	Serine/threonine-protein kinase SBK2
+Q9NY72	SCN3B	IC	Tbio	Sodium channel subunit beta-3
+P35499	SCN4A	IC	Tclin	Sodium channel protein type 4 subunit alpha
+Q15858	SCN9A	IC	Tclin	Sodium channel protein type 9 subunit alpha
+O00141	SGK1	Kinase	Tchem	Serine/threonine-protein kinase Sgk1
+Q8WU08	STK32A	Kinase	Tchem	Serine/threonine-protein kinase 32A
+O75716	STK16	Kinase	Tchem	Serine/threonine-protein kinase 16
+Q8NE28	STKLD1	Kinase	Tdark	Serine/threonine kinase-like domain-containing protein STKLD1
+Q9NRA0	SPHK2	Kinase	Tchem	Sphingosine kinase 2
+Q15772	SPEG	Kinase	Tbio	Striated muscle preferentially expressed protein kinase
+Q9UPE1	SRPK3	Kinase	Tchem	SRSF protein kinase 3
+Q96Q15	SMG1	Kinase	Tchem	Serine/threonine-protein kinase SMG1
+Q96SB4	SRPK1	Kinase	Tchem	SRSF protein kinase 1
+Q9NRH2	SNRK	Kinase	Tchem	SNF-related serine/threonine-protein kinase
+Q9UEE5	STK17A	Kinase	Tchem	Serine/threonine-protein kinase 17A
+O94768	STK17B	Kinase	Tchem	Serine/threonine-protein kinase 17B
+Q86UX6	STK32C	Kinase	Tchem	Serine/threonine-protein kinase 32C
+O94804	STK10	Kinase	Tchem	Serine/threonine-protein kinase 10
+Q9Y6E0	STK24	Kinase	Tchem	Serine/threonine-protein kinase 24
+Q9BXU1	STK31	Kinase	Tbio	Serine/threonine-protein kinase 31
+Q9UEW8	STK39	Kinase	Tchem	STE20/SPS1-related proline-alanine-rich protein kinase
+P35346	SSTR5	GPCR	Tclin	Somatostatin receptor type 5
+Q9NYA1	SPHK1	Kinase	Tchem	Sphingosine kinase 1
+Q9H3Y6	SRMS	Kinase	Tchem	Tyrosine-protein kinase Srms
+Q8TDR2	STK35	Kinase	Tchem	Serine/threonine-protein kinase 35
+P12931	SRC	Kinase	Tclin	Proto-oncogene tyrosine-protein kinase Src
+Q9Y2H1	STK38L	Kinase	Tchem	Serine/threonine-protein kinase 38-like
+P30872	SSTR1	GPCR	Tclin	Somatostatin receptor type 1
+P32745	SSTR3	GPCR	Tclin	Somatostatin receptor type 3
+P31391	SSTR4	GPCR	Tclin	Somatostatin receptor type 4
+Q13285	NR5A1	NR	Tchem	Steroidogenic factor 1
+Q15831	STK11	Kinase	Tchem	Serine/threonine-protein kinase STK11
+Q9BYT3	STK33	Kinase	Tchem	Serine/threonine-protein kinase 33
+Q9NRP7	STK36	Kinase	Tchem	Serine/threonine-protein kinase 36
+Q13188	STK3	Kinase	Tchem	Serine/threonine-protein kinase 3
+Q9C0K7	STRADB	Kinase	Tbio	STE20-related kinase adapter protein beta
+P30874	SSTR2	GPCR	Tclin	Somatostatin receptor type 2
+O00506	STK25	Kinase	Tchem	Serine/threonine-protein kinase 25
+Q9P289	STK26	Kinase	Tchem	Serine/threonine-protein kinase 26
+Q15208	STK38	Kinase	Tchem	Serine/threonine-protein kinase 38
+Q8N2I9	STK40	Kinase	Tbio	Serine/threonine-protein kinase 40
+Q13043	STK4	Kinase	Tchem	Serine/threonine-protein kinase 4
+P78362	SRPK2	Kinase	Tchem	SRSF protein kinase 2
+Q9NY57	STK32B	Kinase	Tchem	Serine/threonine-protein kinase 32B
+Q7RTN6	STRADA	Kinase	Tbio	STE20-related kinase adapter protein alpha
+Q6J9G0	STYK1	Kinase	Tbio	Tyrosine-protein kinase STYK1
+Q9BXA5	SUCNR1	GPCR	Tbio	Succinate receptor 1
+Q9UL54	TAOK2	Kinase	Tchem	Serine/threonine-protein kinase TAO2
+Q9NYW6	TAS2R3	GPCR	Tbio	Taste receptor type 2 member 3
+Q9NYW4	TAS2R5	GPCR	Tbio	Taste receptor type 2 member 5
+Q9NYW2	TAS2R8	GPCR	Tbio	Taste receptor type 2 member 8
+Q9P1P5	TAAR2	GPCR	Tbio	Trace amine-associated receptor 2
+O14804	TAAR5	GPCR	Tbio	Trace amine-associated receptor 5
+Q9NYW0	TAS2R10	GPCR	Tbio	Taste receptor type 2 member 10
+Q9NYV7	TAS2R16	GPCR	Tbio	Taste receptor type 2 member 16
+P59541	TAS2R30	GPCR	Tbio	Taste receptor type 2 member 30
+Q7RTR8	TAS2R42	GPCR	Tdark	Taste receptor type 2 member 42
+Q96RJ0	TAAR1	GPCR	Tclin	Trace amine-associated receptor 1
+Q96RI8	TAAR6	GPCR	Tbio	Trace amine-associated receptor 6
+Q969N4	TAAR8	GPCR	Tbio	Trace amine-associated receptor 8
+Q9P1P4	TAAR3	GPCR	Tdark	Putative trace amine-associated receptor 3
+P59543	TAS2R20	GPCR	Tbio	Taste receptor type 2 member 20
+P59536	TAS2R41	GPCR	Tbio	Taste receptor type 2 member 41
+P59540	TAS2R46	GPCR	Tbio	Taste receptor type 2 member 46
+P59551	TAS2R60	GPCR	Tbio	Taste receptor type 2 member 60
+Q9NYW5	TAS2R4	GPCR	Tbio	Taste receptor type 2 member 4
+Q9NYV9	TAS2R13	GPCR	Tbio	Taste receptor type 2 member 13
+Q9NYV8	TAS2R14	GPCR	Tbio	Taste receptor type 2 member 14
+P59538	TAS2R31	GPCR	Tbio	Taste receptor type 2 member 31
+P59533	TAS2R38	GPCR	Tbio	Taste receptor type 2 member 38
+P59535	TAS2R40	GPCR	Tbio	Taste receptor type 2 member 40
+Q9NYW1	TAS2R9	GPCR	Tdark	Taste receptor type 2 member 9
+P21731	TBXA2R	GPCR	Tclin	Thromboxane A2 receptor
+Q9H2K8	TAOK3	Kinase	Tchem	Serine/threonine-protein kinase TAO3
+P21675	TAF1	Kinase	Tchem	Transcription initiation factor TFIID subunit 1
+Q7L7X3	TAOK1	Kinase	Tchem	Serine/threonine-protein kinase TAO1
+Q8TEA7	TBCK	Kinase	Tbio	TBC domain-containing protein kinase-like protein
+Q96S53	TESK2	Kinase	Tchem	Dual specificity testis-specific protein kinase 2
+P10827	THRA	NR	Tclin	Thyroid hormone receptor alpha
+Q9NYW7	TAS2R1	GPCR	Tbio	Taste receptor type 2 member 1
+Q9NYW3	TAS2R7	GPCR	Tbio	Taste receptor type 2 member 7
+Q96RI9	TAAR9	GPCR	Tdark	Trace amine-associated receptor 9
+Q15750	TAB1	Kinase	Tchem	TGF-beta-activated kinase 1 and MAP3K7-binding protein 1
+Q15569	TESK1	Kinase	Tchem	Dual specificity testis-specific protein kinase 1
+P59537	TAS2R43	GPCR	Tbio	Taste receptor type 2 member 43
+P59544	TAS2R50	GPCR	Tbio	Taste receptor type 2 member 50
+P42680	TEC	Kinase	Tchem	Tyrosine-protein kinase Tec
+Q9UHD2	TBK1	Kinase	Tchem	Serine/threonine-protein kinase TBK1
+Q86UE8	TLK2	Kinase	Tchem	Serine/threonine-protein kinase tousled-like 2
+P59542	TAS2R19	GPCR	Tdark	Taste receptor type 2 member 19
+P59534	TAS2R39	GPCR	Tbio	Taste receptor type 2 member 39
+P10828	THRB	NR	Tclin	Thyroid hormone receptor beta
+P37173	TGFBR2	Kinase	Tchem	TGF-beta receptor type-2
+P36897	TGFBR1	Kinase	Tchem	TGF-beta receptor type-1
+Q9UKE5	TNIK	Kinase	Tchem	TRAF2 and NCK-interacting protein kinase
+Q8IWB6	TEX14	Kinase	Tbio	Inactive serine/threonine-protein kinase TEX14
+Q8TDI8	TMC1	IC	Tbio	Transmembrane channel-like protein 1
+P34981	TRHR	GPCR	Tclin	Thyrotropin-releasing hormone receptor
+Q13507	TRPC3	IC	Tchem	Short transient receptor potential channel 3
+Q9UBN4	TRPC4	IC	Tbio	Short transient receptor potential channel 4
+Q9HCX4	TRPC7	IC	Tbio	Short transient receptor potential channel 7
+Q7Z2W7	TRPM8	IC	Tclin	Transient receptor potential cation channel subfamily M member 8
+Q7RTX0	TAS1R3	GPCR	Tbio	Taste receptor type 1 member 3
+Q9ULQ1	TPCN1	IC	Tbio	Two pore calcium channel protein 1
+Q9NZQ8	TRPM5	IC	Tbio	Transient receptor potential cation channel subfamily M member 5
+Q96QT4	TRPM7	IC	Tbio	Transient receptor potential cation channel subfamily M member 7
+Q9HBA0	TRPV4	IC	Tchem	Transient receptor potential cation channel subfamily V member 4
+P35590	TIE1	Kinase	Tchem	Tyrosine-protein kinase receptor Tie-1
+Q02763	TEK	Kinase	Tclin	Angiopoietin-1 receptor
+Q9UKI8	TLK1	Kinase	Tchem	Serine/threonine-protein kinase tousled-like 1
+Q8TDI7	TMC2	IC	Tdark	Transmembrane channel-like protein 2
+Q6UXY8	TMC5	IC	Tbio	Transmembrane channel-like protein 5
+Q7Z403	TMC6	IC	Tbio	Transmembrane channel-like protein 6
+Q8IU68	TMC8	IC	Tbio	Transmembrane channel-like protein 8
+Q96RU8	TRIB1	Kinase	Tbio	Tribbles homolog 1
+Q7Z402	TMC7	IC	Tbio	Transmembrane channel-like protein 7
+Q13470	TNK1	Kinase	Tchem	Non-receptor tyrosine-protein kinase TNK1
+Q8NHX9	TPCN2	IC	Tbio	Two pore calcium channel protein 2
+Q86W33	TPRA1	GPCR	Tdark	Transmembrane protein adipocyte-associated 1
+Q96RU7	TRIB3	Kinase	Tbio	Tribbles homolog 3
+O75962	TRIO	Kinase	Tbio	Triple functional domain protein
+Q9NVV0	TMEM38B	IC	Tbio	Trimeric intracellular cation channel type B
+Q92519	TRIB2	Kinase	Tbio	Tribbles homolog 2
+Q9H6F2	TMEM38A	IC	Tbio	Trimeric intracellular cation channel type A
+Q96KB5	PBK	Kinase	Tchem	Lymphokine-activated killer T-cell-originated protein kinase
+Q8WZ42	TTN	Kinase	Tbio	Titin
+Q59H18	TNNI3K	Kinase	Tchem	Serine/threonine-protein kinase TNNI3K
+Q7Z5M5	TMC3	IC	Tbio	Transmembrane channel-like protein 3
+Q7Z404	TMC4	IC	Tdark	Transmembrane channel-like protein 4
+Q9H3S4	TPK1	Kinase	Tbio	Thiamin pyrophosphokinase 1
+Q9Y210	TRPC6	IC	Tchem	Short transient receptor potential channel 6
+Q7RTX1	TAS1R1	GPCR	Tbio	Taste receptor type 1 member 1
+P16473	TSHR	GPCR	Tclin	Thyrotropin receptor
+P48995	TRPC1	IC	Tbio	Short transient receptor potential channel 1
+Q96PN8	TSSK3	Kinase	Tchem	Testis-specific serine/threonine-protein kinase 3
+Q5TCY1	TTBK1	Kinase	Tbio	Tau-tubulin kinase 1
+O75762	TRPA1	IC	Tclin	Transient receptor potential cation channel subfamily A member 1
+Q9BSA4	TTYH2	IC	Tdark	Protein tweety homolog 2
+P33981	TTK	Kinase	Tchem	Dual specificity protein kinase TTK
+Q9H313	TTYH1	IC	Tbio	Protein tweety homolog 1
+Q9C0H2	TTYH3	IC	Tbio	Protein tweety homolog 3
+Q7Z4N2	TRPM1	IC	Tbio	Transient receptor potential cation channel subfamily M member 1
+Q8NET8	TRPV3	IC	Tchem	Transient receptor potential cation channel subfamily V member 3
+Q9NQA5	TRPV5	IC	Tbio	Transient receptor potential cation channel subfamily V member 5
+Q9H1D0	TRPV6	IC	Tbio	Transient receptor potential cation channel subfamily V member 6
+Q96PF2	TSSK2	Kinase	Tchem	Testis-specific serine/threonine-protein kinase 2
+Q06418	TYRO3	Kinase	Tchem	Tyrosine-protein kinase receptor TYRO3
+Q8TD43	TRPM4	IC	Tchem	Transient receptor potential cation channel subfamily M member 4
+Q9BX84	TRPM6	Kinase	Tchem	Transient receptor potential cation channel subfamily M member 6
+Q9Y5S1	TRPV2	IC	Tbio	Transient receptor potential cation channel subfamily V member 2
+Q6SA08	TSSK4	Kinase	Tbio	Testis-specific serine/threonine-protein kinase 4
+Q9BXA6	TSSK6	Kinase	Tbio	Testis-specific serine/threonine-protein kinase 6
+Q9UL62	TRPC5	IC	Tchem	Short transient receptor potential channel 5
+Q8TE23	TAS1R2	GPCR	Tbio	Taste receptor type 1 member 2
+Q6IQ55	TTBK2	Kinase	Tbio	Tau-tubulin kinase 2
+O94759	TRPM2	IC	Tchem	Transient receptor potential cation channel subfamily M member 2
+Q9HCF6	TRPM3	IC	Tbio	Transient receptor potential cation channel subfamily M member 3
+Q8NER1	TRPV1	IC	Tclin	Transient receptor potential cation channel subfamily V member 1
+Q9BXA7	TSSK1B	Kinase	Tchem	Testis-specific serine/threonine-protein kinase 1
+P42681	TXK	Kinase	Tchem	Tyrosine-protein kinase TXK
+P29597	TYK2	Kinase	Tclin	Non-receptor tyrosine-protein kinase TYK2
+Q9NWZ5	UCKL1	Kinase	Tdark	Uridine-cytidine kinase-like 1
+Q9HA47	UCK1	Kinase	Tbio	Uridine-cytidine kinase 1
+O75385	ULK1	Kinase	Tchem	Serine/threonine-protein kinase ULK1
+Q96C45	ULK4	Kinase	Tbio	Serine/threonine-protein kinase ULK4
+Q9BZX2	UCK2	Kinase	Tbio	Uridine-cytidine kinase 2
+Q8IYT8	ULK2	Kinase	Tchem	Serine/threonine-protein kinase ULK2
+P30530	AXL	Kinase	Tchem	Tyrosine-protein kinase receptor UFO
+Q6PHR2	ULK3	Kinase	Tchem	Serine/threonine-protein kinase ULK3
+Q7Z5H5	VN1R4	GPCR	Tdark	Vomeronasal type-1 receptor 4
+Q8NFZ6	VN1R2	GPCR	Tdark	Vomeronasal type-1 receptor 2
+Q8TAS1	UHMK1	Kinase	Tbio	Serine/threonine-protein kinase Kist
+Q9BXE9	VN1R3	GPCR	Tdark	Vomeronasal type-1 receptor 3
+Q7Z5H4	VN1R5	GPCR	Tdark	Vomeronasal type-1 receptor 5
+Q9UKP6	UTS2R	GPCR	Tchem	Urotensin-2 receptor
+P43403	ZAP70	Kinase	Tchem	Tyrosine-protein kinase ZAP-70
+P17948	FLT1	Kinase	Tclin	Vascular endothelial growth factor receptor 1
+P32241	VIPR1	GPCR	Tbio	Vasoactive intestinal polypeptide receptor 1
+P41587	VIPR2	GPCR	Tchem	Vasoactive intestinal polypeptide receptor 2
+Q86Y07	VRK2	Kinase	Tchem	Serine/threonine-protein kinase VRK2
+P37288	AVPR1A	GPCR	Tclin	Vasopressin V1a receptor
+P47901	AVPR1B	GPCR	Tclin	Vasopressin V1b receptor
+P30518	AVPR2	GPCR	Tclin	Vasopressin V2 receptor
+Q9GZP7	VN1R1	GPCR	Tbio	Vomeronasal type-1 receptor 1
+P35968	KDR	Kinase	Tclin	Vascular endothelial growth factor receptor 2
+Q8TDU5	VN1R17P	GPCR	Tdark	Putative vomeronasal receptor-like protein 4
+P11473	VDR	NR	Tclin	Vitamin D3 receptor
+Q9Y3S1	WNK2	Kinase	Tbio	Serine/threonine-protein kinase WNK2
+P46094	XCR1	GPCR	Tbio	Chemokine XC receptor 1
+P30291	WEE1	Kinase	Tchem	Wee1-like protein kinase
+P0C1S8	WEE2	Kinase	Tchem	Wee1-like protein kinase 2
+O75191	XYLB	Kinase	Tbio	Xylulose kinase
+P35916	FLT4	Kinase	Tclin	Vascular endothelial growth factor receptor 3
+Q99986	VRK1	Kinase	Tbio	Serine/threonine-protein kinase VRK1
+Q9BYP7	WNK3	Kinase	Tchem	Serine/threonine-protein kinase WNK3
+Q8IV63	VRK3	Kinase	Tbio	Inactive serine/threonine-protein kinase VRK3
+Q9H4A3	WNK1	Kinase	Tbio	Serine/threonine-protein kinase WNK1
+Q96J92	WNK4	Kinase	Tbio	Serine/threonine-protein kinase WNK4
+P07947	YES1	Kinase	Tclin	Tyrosine-protein kinase Yes
+Q401N2	ZACN	IC	Tchem	Zinc-activated ligand-gated ion channel
+Q16854	DGUOK	Kinase	Tbio	Deoxyguanosine kinase, mitochondrial
+Q16288	NTRK3	Kinase	Tchem	NT-3 growth factor receptor
